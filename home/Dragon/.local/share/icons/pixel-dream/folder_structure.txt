@@ -1,0 +1,2198 @@
+.
+├── 128
+│   ├── actions
+│   │   ├── dialog-error.png -> edit-delete.png
+│   │   ├── document-new.png
+│   │   ├── document-open.png -> ../places/folder-drag-accept.png
+│   │   ├── document-revert.png
+│   │   ├── document-save-as.png
+│   │   ├── document-save.png
+│   │   ├── documents-propierties.png -> ../apps/utilities-tweak-tool.png
+│   │   ├── edit-clear.png
+│   │   ├── edit-copy.png
+│   │   ├── edit-cut.png -> ../apps/applications-accessories.png
+│   │   ├── edit-delete.png
+│   │   ├── edit-find.png
+│   │   ├── edit-paste.png -> ../apps/accessories-notes.png
+│   │   ├── edit-redo.png
+│   │   ├── edit-undo.png
+│   │   ├── folder-new.png
+│   │   ├── go-down.png
+│   │   ├── go-home.png
+│   │   ├── go-jump.png
+│   │   ├── go-next.png
+│   │   ├── go-previous.png
+│   │   ├── go-up.png
+│   │   ├── gtk-cancel.png -> edit-delete.png
+│   │   ├── gtk-edit.png
+│   │   ├── insert-link.png -> ../emblems/emblem-symbolic-link.png
+│   │   ├── list-add.png
+│   │   ├── list-remove.png
+│   │   ├── process-stop.png
+│   │   ├── start-here.png
+│   │   ├── tab-new.png
+│   │   ├── view-refresh.png
+│   │   ├── view-sort-ascending.png
+│   │   ├── window-new.png
+│   │   ├── zoom-fit-best.png
+│   │   ├── zoom-in.png
+│   │   ├── zoom-original.png
+│   │   └── zoom-out.png
+│   ├── categories
+│   │   ├── accesories-screenshoot.png -> applets-screenshooter.png
+│   │   ├── accessories-calculator.png
+│   │   ├── accessories-clock.png
+│   │   ├── accessories-dictionary.png -> accessories-ebook-reader.png
+│   │   ├── accessories-ebook-reader.png
+│   │   ├── accessories-notes.png
+│   │   ├── accessories-safe.png
+│   │   ├── accessories-screenshoot.png -> applets-screenshooter.png
+│   │   ├── accessories-text-editor.png
+│   │   ├── alacarte.png -> menulibre.png
+│   │   ├── Alacritty.png
+│   │   ├── anatine.png
+│   │   ├── apple.png
+│   │   ├── applets-screenshooter.png
+│   │   ├── applets-screenshot.png -> applets-screenshooter.png
+│   │   ├── applications-accessories.png
+│   │   ├── applications-all.png
+│   │   ├── applications-development.png -> ../mimetypes/text-x-script.png
+│   │   ├── applications-education.png
+│   │   ├── applications-games.png -> io.github.antimicrox.antimicrox.png
+│   │   ├── applications-graphics.png
+│   │   ├── applications-internet.png -> internet-web-browser.png
+│   │   ├── applications-multimedia.png
+│   │   ├── applications-office.png -> preferences-desktop-filetype-association.png
+│   │   ├── applications-other.png
+│   │   ├── applications-science.png -> applications-education.png
+│   │   ├── applications-system.png -> utilities-tweak-tool.png
+│   │   ├── applications-webbrowsers.png -> internet-web-browser.png
+│   │   ├── application-vnd.affinity-designer.png
+│   │   ├── app.xemu.xemu.png
+│   │   ├── ares.png
+│   │   ├── ark.png -> file-roller.png
+│   │   ├── arronax.png
+│   │   ├── assaultcube.png
+│   │   ├── atril.png
+│   │   ├── audacity.png
+│   │   ├── avatar-default.png -> system-users.png
+│   │   ├── balena-etcher-electron.png
+│   │   ├── bigpemu.png
+│   │   ├── blender.png
+│   │   ├── bulky.png
+│   │   ├── chrome-beta.png
+│   │   ├── chrome.png
+│   │   ├── chromium.svg
+│   │   ├── cinnamon-virtual-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── clementine.png
+│   │   ├── cmake-gui.png -> cmake.png
+│   │   ├── cmake.png
+│   │   ├── CMakeSetup.png -> cmake.png
+│   │   ├── code-oss.png -> visual-studio-code.png
+│   │   ├── compton.png
+│   │   ├── computer.png -> preferences-desktop-display.png
+│   │   ├── cs-applets.png
+│   │   ├── cs-backgrounds.png
+│   │   ├── cs-cat-appearance.png -> preferences-desktop-theme.png
+│   │   ├── cs-cat-hardware.png -> preferences-desktop-keyboard.png
+│   │   ├── cs-cat-prefs.png -> utilities-tweak-tool.png
+│   │   ├── cs-cat-tweaks.png -> utilities-tweak-tool.png
+│   │   ├── cs-color.png -> preferences-desktop-color.png
+│   │   ├── cs-date-time.png -> accessories-clock.png
+│   │   ├── cs-default-applications.png -> preferences-desktop-default-applications.png
+│   │   ├── cs-desklets.png -> accessories-notes.png
+│   │   ├── cs-desktop-effects.png -> preferences-tweaks-shadows.png
+│   │   ├── cs-desktop.png -> ../places/folder-desktop.png
+│   │   ├── cs-details.png
+│   │   ├── cs-display.png -> preferences-desktop-display.png
+│   │   ├── cs-extensions.png
+│   │   ├── cs-fonts.png
+│   │   ├── cs-general.png -> utilities-tweak-tool.png
+│   │   ├── cs-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── cs-mouse.png -> preferences-desktop-mouse.png
+│   │   ├── cs-network.png -> network-wired.png
+│   │   ├── cs-notifications.png -> preferences-system-notifications.png
+│   │   ├── cs-online-accounts.png
+│   │   ├── cs-overview.png
+│   │   ├── cs-panel.png -> tint2.png
+│   │   ├── cs-power.png -> org.xfce.powermanager.png
+│   │   ├── cs-printer.png -> ../devices/printer.png
+│   │   ├── cs-privacy.png
+│   │   ├── cs-screensaver.png
+│   │   ├── cs-sound.png -> ../devices/audio-speakers.png
+│   │   ├── cs-startup-programs.png -> org.xfce.session.png
+│   │   ├── cs-tablet.png -> preferences-desktop-tablet.png
+│   │   ├── cs-themes.png -> preferences-desktop-theme.png
+│   │   ├── cs-tiling.png
+│   │   ├── cs-universal-access.png -> preferences-desktop-accessibility.png
+│   │   ├── cs-user.png -> system-users.png
+│   │   ├── cs-windows.png
+│   │   ├── cs-workspaces.png -> org.xfce.workspaces.png
+│   │   ├── desktop-environment-xfce.png
+│   │   ├── dialog-password.png
+│   │   ├── discord.png
+│   │   ├── disk-usage-analyzer.png
+│   │   ├── document-open-recent.png -> accessories-clock.png
+│   │   ├── dosbox.png
+│   │   ├── dosbox-x.png
+│   │   ├── drive-removable-media.png -> ../mimetypes/application-x-iso.png
+│   │   ├── duckstation-nogui.png -> duckstation.png
+│   │   ├── duckstation.png
+│   │   ├── duck_tank.png
+│   │   ├── emacs.png
+│   │   ├── email.png
+│   │   ├── es-de.png
+│   │   ├── eu.vcmi.VCMI.png
+│   │   ├── facebook.png
+│   │   ├── fbneo.png
+│   │   ├── feh.png -> ../mimetypes/image-x-generic.png
+│   │   ├── file-roller.png
+│   │   ├── file-system-manager.png -> system-file-manager.png
+│   │   ├── filezilla.png
+│   │   ├── firefox.png
+│   │   ├── flycast.png
+│   │   ├── foot.svg
+│   │   ├── fuse.png
+│   │   ├── futurepinball.png
+│   │   ├── gcolor2.png -> gcolor3.png
+│   │   ├── gcolor3.png
+│   │   ├── gcolor.png -> gcolor3.png
+│   │   ├── geometry-dash.png
+│   │   ├── gimp.png
+│   │   ├── github-desktop.png
+│   │   ├── github.png
+│   │   ├── godot.png
+│   │   ├── google-chrome.png -> chrome.png
+│   │   ├── gparted.png -> disk-usage-analyzer.png
+│   │   ├── gsplus.png
+│   │   ├── gtk-preferences.png -> utilities-tweak-tool.png
+│   │   ├── gtk-select-color.png -> gcolor3.png
+│   │   ├── gvim.png -> vim.png
+│   │   ├── half-life2.png
+│   │   ├── half-life.png
+│   │   ├── helltaker.png
+│   │   ├── help-about.png -> cs-details.png
+│   │   ├── help-browser.png -> org.gnome.Yelp.png
+│   │   ├── help.contents.png -> org.gnome.Yelp.png
+│   │   ├── htop.png
+│   │   ├── hwloc.png -> ../devices/cpu.png
+│   │   ├── hypseus.png
+│   │   ├── ibus-setup.png -> utilities-tweak-tool.png
+│   │   ├── idea.svg -> ./intellij.svg
+│   │   ├── ikemego.png
+│   │   ├── info.cemu.Cemu.png
+│   │   ├── inkscape.png
+│   │   ├── input-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── intellij-idea.svg -> intellij.svg
+│   │   ├── intellij-idea-ue-bundled-jre.svg -> intellij.svg
+│   │   ├── intellij.svg
+│   │   ├── internet-web-browser.png
+│   │   ├── io.github.antimicrox.antimicrox.png
+│   │   ├── io.github.ihhub.Fheroes2.png
+│   │   ├── itch.png
+│   │   ├── kde-frameworks.png
+│   │   ├── kdenlive.png
+│   │   ├── kfontview.png -> cs-fonts.png
+│   │   ├── kitty.png
+│   │   ├── klipper.png -> accessories-notes.png
+│   │   ├── kmenuedit.png -> menulibre.png
+│   │   ├── knetattach.png -> internet-web-browser.png
+│   │   ├── kotatogram.png -> telegram.png
+│   │   ├── krita.png
+│   │   ├── kwalletmanager.png
+│   │   ├── libreoffice-base.png
+│   │   ├── libreoffice-calc.png
+│   │   ├── libre-office-draw.png
+│   │   ├── libreoffice-impress.png
+│   │   ├── libre-office-math.png
+│   │   ├── libreoffice.png
+│   │   ├── libreoffice-startcenter.png -> libreoffice.png
+│   │   ├── libreoffice-writer.png
+│   │   ├── lightdm-gtk-greeter-settings.png
+│   │   ├── lime3ds.png
+│   │   ├── linapple.png
+│   │   ├── links-48x48.xpm.png -> internet-web-browser.png
+│   │   ├── lmms.png
+│   │   ├── lutris.png
+│   │   ├── map-globe.png -> internet-web-browser.png
+│   │   ├── mate-desktop.png
+│   │   ├── mate-disk-usage-analyzer.png -> disk-usage-analyzer.png
+│   │   ├── mate-notification-properties.png -> preferences-system-notifications.png
+│   │   ├── mate-panel.png -> tint2.png
+│   │   ├── mate-session-properties.png -> org.xfce.session.png
+│   │   ├── mate-system-log.png
+│   │   ├── menulibre.png
+│   │   ├── microsoft-edge.png
+│   │   ├── midori.png
+│   │   ├── minecraft.png
+│   │   ├── mpv.png
+│   │   ├── multimedia-volume-control.png -> ../devices/audio-speakers.png
+│   │   ├── neovide.png
+│   │   ├── nestopia.png
+│   │   ├── net.kuribo64.melonDS.png
+│   │   ├── net.openra.OpenRA.png
+│   │   ├── net.pcsx2.PCSX2.png
+│   │   ├── net.retrodeck.retrodeck.png
+│   │   ├── net.rpcs3.RPCS3.png
+│   │   ├── net.veloren.airshipper.png
+│   │   ├── network-server.png
+│   │   ├── network-wired.png
+│   │   ├── network-workgroup.png -> network-wired.png
+│   │   ├── nl.hjdskes.gcolor3.png -> gcolor3.png
+│   │   ├── nm-device-wireless.png -> network-wired.png
+│   │   ├── nnn.png
+│   │   ├── notepadqq.png
+│   │   ├── nvim.png
+│   │   ├── octopi.png
+│   │   ├── okular.png
+│   │   ├── openarena.png
+│   │   ├── openarena-server.png
+│   │   ├── openbor.png
+│   │   ├── opera-beta.png
+│   │   ├── opera-developer.png
+│   │   ├── opera.png
+│   │   ├── org.citra_emu.citra.png
+│   │   ├── org.DolphinEmu.dolphin-emu.png
+│   │   ├── org.flameshot.Flameshot.png -> applets-screenshooter.png
+│   │   ├── org.gnome.ArchiveManager.png -> file-roller.png
+│   │   ├── org.gnome.clocks.png -> accessories-clock.png
+│   │   ├── org.gnome.Nautilus.png -> file-system-manager.png
+│   │   ├── org.gnome.Screenshot.png -> applets-screenshooter.png
+│   │   ├── org.gnome.Yelp.png
+│   │   ├── org.gtk.IconBrowser4.png -> preferences-desktop-icons.png
+│   │   ├── org.inkscape.Inkscape.png -> inkscape.png
+│   │   ├── org.kde.dolphin.svg
+│   │   ├── org.mamedev.MAME.png
+│   │   ├── org.midori_browser.Midori.png -> midori.png
+│   │   ├── org.openmw.OpenMW.png
+│   │   ├── org.openttd.OpenTTD.png
+│   │   ├── org.ppsspp.PPSSPP.png
+│   │   ├── org.ppsspp.PPSSPP_.png
+│   │   ├── org.prismlauncher.PrismLauncher.png
+│   │   ├── org.rnd2.cpupower-gui.png -> ../devices/cpu.png
+│   │   ├── org.ryujinx.Ryujinx.png
+│   │   ├── org.xfce.about.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.appfinder.png -> preferences-system-search.png
+│   │   ├── org.xfce.filemanager.png -> ../places/folder.png
+│   │   ├── org.xfce.garcon.png -> menulibre.png
+│   │   ├── org.xfce.mailreader.png -> email.png
+│   │   ├── org.xfce.notification.png -> preferences-system-notifications.png
+│   │   ├── org.xfce.panel.actions.png -> system-shutdown.png
+│   │   ├── org.xfce.panel.applicationsmenu.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.panel.png -> tint2.png
+│   │   ├── org.xfce.panel.tasklist.png -> tint2.png
+│   │   ├── org.xfce.panel.whiskermenu.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.panel.windowmenu.png -> menulibre.png
+│   │   ├── org.xfce.powermanager.png -> ../devices/battery.png
+│   │   ├── org.xfce.session.png
+│   │   ├── org.xfce.settings.accessibility.png -> preferences-desktop-accessibility.png
+│   │   ├── org.xfce.settings.appearance.png -> preferences-desktop-theme.png
+│   │   ├── org.xfce.settings.color.png -> preferences-desktop-color.png
+│   │   ├── org.xfce.settings.default-applications.png -> preferences-desktop-default-applications.png
+│   │   ├── org.xfce.settings.display.png -> preferences-desktop-display.png
+│   │   ├── org.xfce.settings.editor.png -> utilities-tweak-tool.png
+│   │   ├── org.xfce.settings.keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── org.xfce.settings.manager.png -> utilities-tweak-tool.png
+│   │   ├── org.xfce.settings.mouse.png -> ../devices/input-mouse.png
+│   │   ├── org.xfce.terminalemulator.png -> utilities-terminal.png
+│   │   ├── org.xfce.terminal.png -> utilities-terminal.png
+│   │   ├── org.xfce.terminal-settings.png -> utilities-terminal.png
+│   │   ├── org.xfce.thunar.png -> ../places/folder-green.png
+│   │   ├── org.xfce.tumbler.png -> ../mimetypes/image-x-generic.png
+│   │   ├── org.xfce.volman.png -> ventoy.png
+│   │   ├── org.xfce.webbrowser.png -> internet-web-browser.png
+│   │   ├── org.xfce.workspaces.png
+│   │   ├── org.xfce.xfdesktop.png -> ../places/folder-desktop.png
+│   │   ├── org.xfce.xfwm4.png -> cs-windows.png
+│   │   ├── org.xfce.xfwm4-tweaks.png -> utilities-tweak-tool.png
+│   │   ├── org.yuzu_emu.yuzu.png
+│   │   ├── org.zdoom.GZDoom.png
+│   │   ├── org.zdoom.LZDoom.png
+│   │   ├── oricutron.png
+│   │   ├── pcsxr-icon.png
+│   │   ├── picom.png
+│   │   ├── plasma.png -> plasmashell.png
+│   │   ├── plasma-search.png -> preferences-system-search.png
+│   │   ├── plasmashell.png
+│   │   ├── playonlinux.png
+│   │   ├── portal2.png
+│   │   ├── portal2.png2 -> portal2.png
+│   │   ├── portmaster.png
+│   │   ├── preferences-desktop-accessibility.png
+│   │   ├── preferences-desktop-activities.png -> org.xfce.workspaces.png
+│   │   ├── preferences-desktop-baloo.png -> preferences-system-search.png
+│   │   ├── preferences-desktop-color.png
+│   │   ├── preferences-desktop-cursors.png
+│   │   ├── preferences-desktop-default-applications.png
+│   │   ├── preferences-desktop-display-nightcolor.png -> preferences-desktop-display.png
+│   │   ├── preferences-desktop-display.png
+│   │   ├── preferences-desktop-emoticons.png
+│   │   ├── preferences-desktop-feedback.png
+│   │   ├── preferences-desktop-filetype-association.png
+│   │   ├── preferences-desktop-font-installer.png -> cs-fonts.png
+│   │   ├── preferences-desktop-font.png -> preferences-desktop-font-installer.png
+│   │   ├── preferences-desktop-gaming.png -> io.github.antimicrox.antimicrox.png
+│   │   ├── preferences-desktop-icons.png
+│   │   ├── preferences-desktop-keyboard.png
+│   │   ├── preferences-desktop-keyboard-shortcut.png -> preferences-desktop-keyboard.png
+│   │   ├── preferences-desktop-keyboard-shortcuts.png
+│   │   ├── preferences-desktop-launch-feedback.png -> org.xfce.session.png
+│   │   ├── preferences-desktop-locale.png
+│   │   ├── preferences-desktop-mouse.png -> ../devices/input-mouse.png
+│   │   ├── preferences-desktop-notification-bell.png -> preferences-system-notifications.png
+│   │   ├── preferences-desktop-peripherals.png -> ../devices/input-mouse.png
+│   │   ├── preferences-desktop-personal.png -> system-users.png
+│   │   ├── preferences-desktop-plasma-theme.png
+│   │   ├── preferences-desktop.png -> utilities-tweak-tool.png
+│   │   ├── preferences-desktop-tablet.png
+│   │   ├── preferences-desktop-theme-applications.png
+│   │   ├── preferences-desktop-theme-global.png -> preferences-desktop-theme.png
+│   │   ├── preferences-desktop-theme.png
+│   │   ├── preferences-desktop-touchpad.png
+│   │   ├── preferences-desktop-user.png -> system-users.png
+│   │   ├── preferences-desktop-wallpaper.png -> cs-backgrounds.png
+│   │   ├── preferences-system-network.png -> network-wired.png
+│   │   ├── preferences-system-notifications.png
+│   │   ├── preferences-system.png -> utilities-tweak-tool.png
+│   │   ├── preferences-system-search.png
+│   │   ├── preferences-system-session-services.png -> ../mimetypes/application-x-executable.png
+│   │   ├── preferences-system-splash.png
+│   │   ├── preferences-system-time.png -> accessories-clock.png
+│   │   ├── preferences-system-users.png -> system-users.png
+│   │   ├── preferences-system-windows-actions.png
+│   │   ├── preferences-system-windows.png -> preferences-system-windows-actions.png
+│   │   ├── preferences-tweaks-shadows.png
+│   │   ├── primehack.png
+│   │   ├── pvz.png
+│   │   ├── qemu.png
+│   │   ├── QtProject-qtcreator.png
+│   │   ├── raze.png
+│   │   ├── redream.png
+│   │   ├── retroarch.png
+│   │   ├── romm.png
+│   │   ├── roxterm.png -> utilities-terminal.png
+│   │   ├── ruffle.png
+│   │   ├── scummvm.png
+│   │   ├── sdltrs.png
+│   │   ├── search.png -> preferences-system-search.png
+│   │   ├── security-high.png
+│   │   ├── security-low.png
+│   │   ├── security-medium.png
+│   │   ├── simcoupe.png
+│   │   ├── simplescreenrecorder.png
+│   │   ├── skullgirls.png
+│   │   ├── snes9x.png
+│   │   ├── solarus.png
+│   │   ├── spacefm-find.png -> ../places/folder-saved-search.png
+│   │   ├── spacefm.png -> ../places/folder.png
+│   │   ├── spotify.png
+│   │   ├── steam_icon_1289310.png -> helltaker.png
+│   │   ├── steam_icon_20.png -> team-fortress-classic.png
+│   │   ├── steam_icon_245170.png -> skullgirls.png
+│   │   ├── steam_icon_322170.png -> geometry-dash.png
+│   │   ├── steam_icon_3590.png -> pvz.png
+│   │   ├── steam_icon_620.png -> portal2.png
+│   │   ├── steam_icon_70.png -> half-life.png
+│   │   ├── steam.png
+│   │   ├── stella.png
+│   │   ├── strawberry.png
+│   │   ├── supermodel.png
+│   │   ├── supertuxkart.png
+│   │   ├── system-file-manager.png -> ../places/folder.png
+│   │   ├── system-lock-screen.png -> system-suspend.png
+│   │   ├── system-log-out.png -> system-logout.png
+│   │   ├── system-logout.png
+│   │   ├── system-reboot.png
+│   │   ├── system-run.png -> ../mimetypes/application-x-executable.png
+│   │   ├── system-search.png -> preferences-system-search.png
+│   │   ├── systemsettings.png -> utilities-tweak-tool.png
+│   │   ├── system-shutdown.png
+│   │   ├── system-software-install.png
+│   │   ├── system-suspend-hibernate.png
+│   │   ├── system-suspend.png
+│   │   ├── system-switch-user.png
+│   │   ├── system-users.png
+│   │   ├── team-fortress-classic.png
+│   │   ├── telegram.png
+│   │   ├── terminal-tango.png -> utilities-terminal.png
+│   │   ├── tesseract.png
+│   │   ├── text-x-chdr.png
+│   │   ├── text-x-markdown.png
+│   │   ├── tint2conf.png -> tint2.png
+│   │   ├── tint2.png
+│   │   ├── tools-check-spelling.png
+│   │   ├── tsugaru.png
+│   │   ├── twitter.png
+│   │   ├── uget-icon.png
+│   │   ├── urbanterror.png
+│   │   ├── user-info.png -> system-users.png
+│   │   ├── utilities-system-monitor.png
+│   │   ├── utilities-terminal.png
+│   │   ├── utilities-tweak-tool.png
+│   │   ├── ventoy.png
+│   │   ├── video-display.png -> preferences-desktop-display.png
+│   │   ├── viewnior.png -> ../mimetypes/image-x-generic.png
+│   │   ├── vim.png
+│   │   ├── virt-manager.png
+│   │   ├── virtualbox.png
+│   │   ├── visual-studio-code.png
+│   │   ├── vita3k.png
+│   │   ├── vivaldi.png
+│   │   ├── vlc.svg
+│   │   ├── vpinball.png
+│   │   ├── vscodium.png
+│   │   ├── waterfox.png
+│   │   ├── whatsapp.svg
+│   │   ├── wine.png
+│   │   ├── xarchiver.png -> file-roller.png
+│   │   ├── xenia.png
+│   │   ├── xfce4-logo.png -> desktop-environment-xfce.png
+│   │   ├── xfce4-panel.png -> tint2.png
+│   │   ├── xfce4-settings.png -> utilities-tweak-tool.png
+│   │   ├── xfce-display-profile.png -> system-users.png
+│   │   ├── xfsm-hibernate.png -> system-suspend-hibernate.png
+│   │   ├── xfsm-lock.png -> system-suspend.png
+│   │   ├── xfsm-logout.png -> system-logout.png
+│   │   ├── xfsm-reboot.png -> system-reboot.png
+│   │   ├── xfsm-shutdown.png -> system-shutdown.png
+│   │   ├── xfsm-suspend-hibernate.png -> system-suspend-hibernate.png
+│   │   ├── xfsm-suspend.png -> system-suspend.png
+│   │   ├── xfsm-switch-user.png -> system-switch-user.png
+│   │   ├── xfsm-users.png -> system-users.png
+│   │   ├── youtube-music.png
+│   │   ├── youtube.png
+│   │   └── zsnes.png
+│   ├── devices
+│   │   ├── audio-card.png
+│   │   ├── audio-headphones.png
+│   │   ├── audio-speakers.png
+│   │   ├── battery.png
+│   │   ├── camera-photo.png
+│   │   ├── cpu.png
+│   │   ├── drive-harddisk.png
+│   │   ├── drive-optical.png
+│   │   ├── input-mouse.png
+│   │   ├── input-tablet.png -> ../apps/preferences-desktop-tablet.png
+│   │   ├── media-optical.png -> ../mimetypes/application-x-iso.png
+│   │   ├── media-removable.png -> ../apps/ventoy.png
+│   │   ├── multimedia-player.png
+│   │   ├── network-wired.png -> ../apps/network-wired.png
+│   │   └── printer.png
+│   ├── distributor-logo
+│   │   ├── distributor-logo-absolute.png
+│   │   ├── distributor-logo-academix.png
+│   │   ├── distributor-logo-aix.png
+│   │   ├── distributor-logo-alpine.png
+│   │   ├── distributor-logo-android.png
+│   │   ├── distributor-logo-antergos.png
+│   │   ├── distributor-logo-antix.png
+│   │   ├── distributor-logo-apple.png
+│   │   ├── distributor-logo-archbang.png
+│   │   ├── distributor-logo-archlabs.png
+│   │   ├── distributor-logo-archman.png
+│   │   ├── distributor-logo-arch.png
+│   │   ├── distributor-logo-arco.png
+│   │   ├── distributor-logo-artix.png
+│   │   ├── distributor-logo-arya.png
+│   │   ├── distributor-logo-atari.png
+│   │   ├── distributor-logo-awesome.png
+│   │   ├── distributor-logo-backbox.png
+│   │   ├── distributor-logo-batocera.png
+│   │   ├── distributor-logo-blackarch.png
+│   │   ├── distributor-logo-bodhi.png
+│   │   ├── distributor-logo-busenlabs.png
+│   │   ├── distributor-logo-calculate.png
+│   │   ├── distributor-logo-centos.png
+│   │   ├── distributor-logo-chakra.png
+│   │   ├── distributor-logo-cinnamon.png
+│   │   ├── distributor-logo-commodore.png
+│   │   ├── distributor-logo-condres.png
+│   │   ├── distributor-logo-debian.png
+│   │   ├── distributor-logo-deepin.png
+│   │   ├── distributor-logo-devuan.png
+│   │   ├── distributor-logo-dragonflybsd.png
+│   │   ├── distributor-logo-elementary.png
+│   │   ├── distributor-logo-endeavour.png
+│   │   ├── distributor-logo-fedora.png
+│   │   ├── distributor-logo-fluxbox.xpm
+│   │   ├── distributor-logo-freebsd.png
+│   │   ├── distributor-logo-freenas.png
+│   │   ├── distributor-logo-funtoo.png
+│   │   ├── distributor-logo-gentoo.png
+│   │   ├── distributor-logo-ghostbsd.png
+│   │   ├── distributor-logo-gnome.png
+│   │   ├── distributor-logo-haiku.png
+│   │   ├── distributor-logo-i3.png
+│   │   ├── distributor-logo-icewm.png
+│   │   ├── distributor-logo-illumos.png
+│   │   ├── distributor-logo-kai.png
+│   │   ├── distributor-logo-kali.png
+│   │   ├── distributor-logo-kaos.png
+│   │   ├── distributor-logo-knoppix.png
+│   │   ├── distributor-logo-kokora.png
+│   │   ├── distributor-logo-kubuntu.png
+│   │   ├── distributor-logo-linuxlite.png
+│   │   ├── distributor-logo-linux.xpm
+│   │   ├── distributor-logo-lxde.png
+│   │   ├── distributor-logo-lxle.png
+│   │   ├── distributor-logo-lxqt.png
+│   │   ├── distributor-logo-macos.png
+│   │   ├── distributor-logo-mageia.png
+│   │   ├── distributor-logo-manjaro.png
+│   │   ├── distributor-logo-mate.png -> ../apps/mate-desktop.png
+│   │   ├── distributor-logo-mint.png
+│   │   ├── distributor-logo-msdos.png
+│   │   ├── distributor-logo-mx.png
+│   │   ├── distributor-logo-neon.png
+│   │   ├── distributor-logo-netbsd.png
+│   │   ├── distributor-logo-openbsd.png
+│   │   ├── distributor-logo-openindiana.png
+│   │   ├── distributor-logo-opensuse.png
+│   │   ├── distributor-logo-peppermint.png
+│   │   ├── distributor-logo-plasma.png -> ../apps/plasmashell.png
+│   │   ├── distributor-logo-popos.png
+│   │   ├── distributor-logo-rhel.png
+│   │   ├── distributor-logo-solus.png
+│   │   ├── distributor-logo-ubuntu-budgie.png
+│   │   ├── distributor-logo-ubuntu.png
+│   │   ├── distributor-logo-ubuntu-studio.png
+│   │   ├── distributor-logo-void.png
+│   │   ├── distributor-logo-voyager.png
+│   │   ├── distributor-logo-windows.png
+│   │   ├── distributor-logo-xfce.png -> ../apps/desktop-environment-xfce.png
+│   │   └── distributor-logo-zorin.png
+│   ├── emblems
+│   │   ├── emblem-cloud.png
+│   │   ├── emblem-default.png
+│   │   ├── emblem-documents.png
+│   │   ├── emblem-downloads.png
+│   │   ├── emblem-encrypted-locked.png
+│   │   ├── emblem-encrypted-unlocked.png
+│   │   ├── emblem-favorite.png
+│   │   ├── emblem-generic.png
+│   │   ├── emblem-important.png
+│   │   ├── emblem-information.png
+│   │   ├── emblem-mail.png
+│   │   ├── emblem-new.png
+│   │   ├── emblem-pause.png
+│   │   ├── emblem-photos.png
+│   │   ├── emblem-question.png
+│   │   ├── emblem-readonly.png
+│   │   ├── emblem-remove.png
+│   │   ├── emblem-shared.png
+│   │   ├── emblem-symbolic-link.png
+│   │   ├── emblem-synchronizing.png
+│   │   ├── emblem-system.png
+│   │   ├── emblem-unlocked.png
+│   │   ├── emblem-unreadable.png
+│   │   ├── emblem-urgent.png
+│   │   └── emblem-web.png
+│   ├── mimetypes
+│   │   ├── 128
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── 256
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── 32
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── 64
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── 96
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   ├── application-gzip.png -> application-zip.png
+│   │   ├── application-pdf.png
+│   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-compress.png -> application-zip.png
+│   │   ├── application-x-cpio.png -> application-zip.png
+│   │   ├── application-x-designer.png
+│   │   ├── application-x-executable.png
+│   │   ├── application-x-gzip.png -> application-zip.png
+│   │   ├── application-x-iso.png
+│   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   ├── application-x-object.png -> application-x-executable.png
+│   │   ├── application-x-partial-download.png
+│   │   ├── application-x-tar.png -> application-zip.png
+│   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   ├── application-zip.png -> application-zstd.png
+│   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   ├── audio-x-generic.png
+│   │   ├── image-x-generic.png
+│   │   ├── inode-directory.svg -> folder-green.png
+│   │   ├── scalable
+│   │   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   │   ├── application-gzip.png -> application-zip.png
+│   │   │   ├── application-pdf.png
+│   │   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libre-office-math.png
+│   │   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libre-office-draw.png
+│   │   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-compress.png -> application-zip.png
+│   │   │   ├── application-x-cpio.png -> application-zip.png
+│   │   │   ├── application-x-designer.png
+│   │   │   ├── application-x-executable.png
+│   │   │   ├── application-x-gzip.png -> application-zip.png
+│   │   │   ├── application-x-iso.png
+│   │   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   │   ├── application-x-object.png -> application-x-executable.png
+│   │   │   ├── application-x-partial-download.png
+│   │   │   ├── application-x-tar.png -> application-zip.png
+│   │   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   │   ├── application-zip.png -> application-zstd.png
+│   │   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   │   ├── audio-x-generic.png
+│   │   │   ├── image-x-generic.png
+│   │   │   ├── inode-directory.svg -> folder-green.png
+│   │   │   ├── template.png
+│   │   │   ├── text-markdown.png
+│   │   │   ├── text-x-chdr.png
+│   │   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   │   ├── text-x-c++src.png
+│   │   │   ├── text-x-csrc.png
+│   │   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   │   ├── text-x-generic.png
+│   │   │   ├── text-x-makefile.png
+│   │   │   ├── text-x-script.png
+│   │   │   ├── video-x-generic.png
+│   │   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   │   └── x-partial-download.png
+│   │   ├── template.png
+│   │   ├── text-markdown.png
+│   │   ├── text-x-chdr.png
+│   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   ├── text-x-c++src.png
+│   │   ├── text-x-csrc.png
+│   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   ├── text-x-generic.png
+│   │   ├── text-x-makefile.png
+│   │   ├── text-x-script.png
+│   │   ├── video-x-generic.png
+│   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   └── x-partial-download.png
+│   ├── places
+│   │   ├── default-folder-github.png
+│   │   ├── default-folder-git.png
+│   │   ├── default-folder.png
+│   │   ├── desktop.png -> folder-desktop.png
+│   │   ├── folder16open.png
+│   │   ├── folder16.png
+│   │   ├── folder-activities.png
+│   │   ├── folder-android.png
+│   │   ├── folder-apple.png
+│   │   ├── folder-applications.png
+│   │   ├── folder-arduino.png
+│   │   ├── folder-backup.png
+│   │   ├── folder-blue-activities.png
+│   │   ├── folder-blue-android.png
+│   │   ├── folder-blue-apple.png
+│   │   ├── folder-blue-applications.png
+│   │   ├── folder-blue-arduino.png
+│   │   ├── folder-blue-backup.png
+│   │   ├── folder-blue-cd.png
+│   │   ├── folder-blue-cloud.png
+│   │   ├── folder-blue-code.png
+│   │   ├── folder-blue-desktop.png
+│   │   ├── folder-blue-development.png
+│   │   ├── folder-blue-documents-open.png
+│   │   ├── folder-blue-documents.png
+│   │   ├── folder-blue-downloads-open.png
+│   │   ├── folder-blue-downloads.png
+│   │   ├── folder-blue-drag-accept.png
+│   │   ├── folder-blue-favorites.png
+│   │   ├── folder-blue-games.png
+│   │   ├── folder-blue-github.png
+│   │   ├── folder-blue-git.png
+│   │   ├── folder-blue-gnome.png
+│   │   ├── folder-blue-google-drive.png
+│   │   ├── folder-blue-image-people.png
+│   │   ├── folder-blue-important.png
+│   │   ├── folder-blue-java.png
+│   │   ├── folder-blue-kde.png
+│   │   ├── folder-blue-linux.png
+│   │   ├── folder-blue-locked.png
+│   │   ├── folder-blue-mail.png
+│   │   ├── folder-blue-mega.png
+│   │   ├── folder-blue-meocloud.png
+│   │   ├── folder-blue-music-open.png
+│   │   ├── folder-blue-music.png
+│   │   ├── folder-blue-network.png
+│   │   ├── folder-blue-nextcloud.png
+│   │   ├── folder-blue-open.png
+│   │   ├── folder-blue-pcloud.png
+│   │   ├── folder-blue-photo.png
+│   │   ├── folder-blue-pictures-open.png
+│   │   ├── folder-blue-pictures.png
+│   │   ├── folder-blue.png
+│   │   ├── folder-blue-print.png
+│   │   ├── folder-blue-private.png
+│   │   ├── folder-blue-publicshare.png
+│   │   ├── folder-blue-recent.png
+│   │   ├── folder-blue-remote-open.png
+│   │   ├── folder-blue-remote.png
+│   │   ├── folder-blue-saved-search.png
+│   │   ├── folder-blue-script.png
+│   │   ├── folder-blue-steam.png
+│   │   ├── folder-blue-sync.png
+│   │   ├── folder-blue-syncthing.png
+│   │   ├── folder-blue-tar.png
+│   │   ├── folder-blue-templates-open.png
+│   │   ├── folder-blue-templates.png
+│   │   ├── folder-blue-torrent.png
+│   │   ├── folder-blue-unlocked.png
+│   │   ├── folder-blue-vbox.png
+│   │   ├── folder-blue-video-open.png
+│   │   ├── folder-blue-video.png
+│   │   ├── folder-blue-visiting.png
+│   │   ├── folder-blue-vmware.png
+│   │   ├── folder-blue-wifi.png
+│   │   ├── folder-blue-wine.png
+│   │   ├── folder-cd.png
+│   │   ├── folder-cloud.png
+│   │   ├── folder-code.png
+│   │   ├── folder-desktop.png
+│   │   ├── folder-development.png
+│   │   ├── folder-documents-open.png
+│   │   ├── folder-documents.png
+│   │   ├── folder-download-open.png -> folder-downloads-open.png
+│   │   ├── folder-download.png -> folder-downloads.png
+│   │   ├── folder-downloads-open.png
+│   │   ├── folder-downloads.png
+│   │   ├── folder-drag-accept.png
+│   │   ├── folder-favorites.png
+│   │   ├── folder-games.png
+│   │   ├── folder-github.png
+│   │   ├── folder-git.png
+│   │   ├── folder-gnome.png
+│   │   ├── folder-google-drive.png
+│   │   ├── folder-green-activities.png
+│   │   ├── folder-green-android.png
+│   │   ├── folder-green-apple.png
+│   │   ├── folder-green-applications.png
+│   │   ├── folder-green-arduino.png
+│   │   ├── folder-green-backup.png
+│   │   ├── folder-green-cd.png
+│   │   ├── folder-green-cloud.png
+│   │   ├── folder-green-code.png
+│   │   ├── folder-green-desktop.png
+│   │   ├── folder-green-development.png
+│   │   ├── folder-green-documents-open.png
+│   │   ├── folder-green-documents.png
+│   │   ├── folder-green-downloads-open.png
+│   │   ├── folder-green-downloads.png
+│   │   ├── folder-green-drag-accept.png
+│   │   ├── folder-green-favorites.png
+│   │   ├── folder-green-games.png
+│   │   ├── folder-green-github.png
+│   │   ├── folder-green-git.png
+│   │   ├── folder-green-gnome.png
+│   │   ├── folder-green-google-drive.png
+│   │   ├── folder-green-image-people.png
+│   │   ├── folder-green-important.png
+│   │   ├── folder-green-java.png
+│   │   ├── folder-green-kde.png
+│   │   ├── folder-green-linux.png
+│   │   ├── folder-green-locked.png
+│   │   ├── folder-green-mail.png
+│   │   ├── folder-green-mega.png
+│   │   ├── folder-green-meocloud.png
+│   │   ├── folder-green-music-open.png
+│   │   ├── folder-green-music.png
+│   │   ├── folder-green-network.png
+│   │   ├── folder-green-nextcloud.png
+│   │   ├── folder-green-open.png
+│   │   ├── folder-green-pcloud.png
+│   │   ├── folder-green-photo.png
+│   │   ├── folder-green-pictures-open.png
+│   │   ├── folder-green-pictures.png
+│   │   ├── folder-green.png
+│   │   ├── folder-green-print.png
+│   │   ├── folder-green-private.png
+│   │   ├── folder-green-publicshare.png
+│   │   ├── folder-green-recent.png
+│   │   ├── folder-green-remote-open.png
+│   │   ├── folder-green-remote.png
+│   │   ├── folder-green-saved-search.png
+│   │   ├── folder-green-script.png
+│   │   ├── folder-green-steam.png
+│   │   ├── folder-green-sync.png
+│   │   ├── folder-green-syncthing.png
+│   │   ├── folder-green-tar.png
+│   │   ├── folder-green-templates-open.png
+│   │   ├── folder-green-templates.png
+│   │   ├── folder-green-torrent.png
+│   │   ├── folder-green-unlocked.png
+│   │   ├── folder-green-vbox.png
+│   │   ├── folder-green-video-open.png
+│   │   ├── folder-green-video.png
+│   │   ├── folder-green-visiting.png
+│   │   ├── folder-green-vmware.png
+│   │   ├── folder-green-wifi.png
+│   │   ├── folder-green-wine.png
+│   │   ├── folder-image-people.png
+│   │   ├── folder-important.png
+│   │   ├── folder-java.png
+│   │   ├── folder-kde.png
+│   │   ├── folder-linux.png
+│   │   ├── folder-locked.png
+│   │   ├── folder-mail.png
+│   │   ├── folder-mega.png
+│   │   ├── folder-meocloud.png
+│   │   ├── folder-music-open.png
+│   │   ├── folder-music.png
+│   │   ├── folder-network.png
+│   │   ├── folder-nextcloud.png
+│   │   ├── folder-onedrive.png -> folder-cloud.png
+│   │   ├── folder-open.png
+│   │   ├── folder-pcloud.png
+│   │   ├── folder-photo.png
+│   │   ├── folder-pictures-open.png
+│   │   ├── folder-pictures.png
+│   │   ├── folder.png -> folder-green.png
+│   │   ├── folder-print.png
+│   │   ├── folder-private.png
+│   │   ├── folder-public.png -> folder-image-people.png
+│   │   ├── folder-publicshare.png
+│   │   ├── folder-recent.png
+│   │   ├── folder-red-activities.png
+│   │   ├── folder-red-android.png
+│   │   ├── folder-red-apple.png
+│   │   ├── folder-red-applications.png
+│   │   ├── folder-red-arduino.png
+│   │   ├── folder-red-backup.png
+│   │   ├── folder-red-cd.png
+│   │   ├── folder-red-cloud.png
+│   │   ├── folder-red-code.png
+│   │   ├── folder-red-desktop.png
+│   │   ├── folder-red-development.png
+│   │   ├── folder-red-documents-open.png
+│   │   ├── folder-red-documents.png
+│   │   ├── folder-red-downloads-open.png
+│   │   ├── folder-red-downloads.png
+│   │   ├── folder-red-drag-accept.png
+│   │   ├── folder-red-favorites.png
+│   │   ├── folder-red-games.png
+│   │   ├── folder-red-github.png
+│   │   ├── folder-red-git.png
+│   │   ├── folder-red-gnome.png
+│   │   ├── folder-red-google-drive.png
+│   │   ├── folder-red-image-people.png
+│   │   ├── folder-red-important.png
+│   │   ├── folder-red-java.png
+│   │   ├── folder-red-kde.png
+│   │   ├── folder-red-linux.png
+│   │   ├── folder-red-locked.png
+│   │   ├── folder-red-mail.png
+│   │   ├── folder-red-mega.png
+│   │   ├── folder-red-meocloud.png
+│   │   ├── folder-red-music-open.png
+│   │   ├── folder-red-music.png
+│   │   ├── folder-red-network.png
+│   │   ├── folder-red-nextcloud.png
+│   │   ├── folder-red-open.png
+│   │   ├── folder-red-pcloud.png
+│   │   ├── folder-red-photo.png
+│   │   ├── folder-red-pictures-open.png
+│   │   ├── folder-red-pictures.png
+│   │   ├── folder-red.png
+│   │   ├── folder-red-print.png
+│   │   ├── folder-red-private.png
+│   │   ├── folder-red-publicshare.png
+│   │   ├── folder-red-recent.png
+│   │   ├── folder-red-remote-open.png
+│   │   ├── folder-red-remote.png
+│   │   ├── folder-red-saved-search.png
+│   │   ├── folder-red-script.png
+│   │   ├── folder-red-steam.png
+│   │   ├── folder-red-sync.png
+│   │   ├── folder-red-syncthing.png
+│   │   ├── folder-red-tar.png
+│   │   ├── folder-red-templates-open.png
+│   │   ├── folder-red-templates.png
+│   │   ├── folder-red-torrent.png
+│   │   ├── folder-red-unlocked.png
+│   │   ├── folder-red-vbox.png
+│   │   ├── folder-red-video-open.png
+│   │   ├── folder-red-video.png
+│   │   ├── folder-red-visiting.png
+│   │   ├── folder-red-vmware.png
+│   │   ├── folder-red-wifi.png
+│   │   ├── folder-red-wine.png
+│   │   ├── folder-remote-open.png
+│   │   ├── folder-remote.png
+│   │   ├── folder-saved-search.png
+│   │   ├── folder-script.png
+│   │   ├── folder-steam.png
+│   │   ├── folder.svg -> folder-green.png
+│   │   ├── folder-sync.png
+│   │   ├── folder-syncthing.png
+│   │   ├── folder-tar.png
+│   │   ├── folder-templates-open.png
+│   │   ├── folder-templates.png
+│   │   ├── folder-torrent.png
+│   │   ├── folder-unlocked.png
+│   │   ├── folder-vbox.png
+│   │   ├── folder-video-open.png
+│   │   ├── folder-video.png
+│   │   ├── folder-videos-open.png -> folder-video-open.png
+│   │   ├── folder-videos.png -> folder-video.png
+│   │   ├── folder-visiting.png
+│   │   ├── folder-vmware.png
+│   │   ├── folder-wifi.png
+│   │   ├── folder-wine.png
+│   │   ├── stock_folder.png
+│   │   ├── user-blue-home.png
+│   │   ├── user-bookmarks.png -> folder-favorites.png
+│   │   ├── user-desktop.png -> folder-desktop.png
+│   │   ├── user-green-home.png
+│   │   ├── user-home.png
+│   │   ├── user-red-home.png
+│   │   ├── user-trash-full.png
+│   │   └── user-trash.png
+│   └── status
+│       ├── audio-volume-high.png
+│       ├── audio-volume-low.png
+│       ├── audio-volume-medium.png
+│       ├── audio-volume-muted.png
+│       ├── battery-full-charging.png
+│       ├── battery-full.png -> battery-full-charging.png
+│       ├── battery-good-charging.png
+│       ├── battery-good.png
+│       ├── battery-low-charging.png
+│       ├── battery-low.png
+│       ├── battery-missing.png
+│       ├── media-playback-pause.png
+│       ├── media-playback-start.png
+│       ├── network-error.png -> notification-network-ethernet-disconnected.png
+│       ├── network-offline.png -> notification-network-ethernet-disconnected.png
+│       ├── notification-network-ethernet-connected.png
+│       ├── notification-network-ethernet-disconnected.png
+│       ├── notification-network-wired.png -> notification-network-ethernet-connected.png
+│       ├── notification-network-wireless-disconnected.png
+│       └── notification-network-wireless.png
+├── 16
+│   ├── actions
+│   │   ├── dialog-error.png -> edit-delete.png
+│   │   ├── document-new.png
+│   │   ├── document-open.png -> ../places/folder-drag-accept.png
+│   │   ├── document-revert.png
+│   │   ├── document-save-as.png
+│   │   ├── document-save.png
+│   │   ├── documents-propierties.png -> ../apps/utilities-tweak-tool.png
+│   │   ├── edit-clear.png
+│   │   ├── edit-copy.png
+│   │   ├── edit-cut.png -> ../apps/applications-accessories.png
+│   │   ├── edit-delete.png
+│   │   ├── edit-find.png
+│   │   ├── edit-paste.png -> ../apps/accessories-notes.png
+│   │   ├── edit-redo.png
+│   │   ├── edit-undo.png
+│   │   ├── folder-new.png
+│   │   ├── go-down.png
+│   │   ├── go-home.png
+│   │   ├── go-jump.png
+│   │   ├── go-next.png
+│   │   ├── go-previous.png
+│   │   ├── go-up.png
+│   │   ├── gtk-cancel.png -> edit-delete.png
+│   │   ├── gtk-edit.png
+│   │   ├── insert-link.png -> ../emblems/emblem-symbolic-link.png
+│   │   ├── list-add.png
+│   │   ├── list-remove.png
+│   │   ├── process-stop.png
+│   │   ├── start-here.png
+│   │   ├── tab-new.png
+│   │   ├── view-refresh.png
+│   │   ├── view-sort-ascending.png
+│   │   ├── window-new.png
+│   │   ├── zoom-fit-best.png
+│   │   ├── zoom-in.png
+│   │   ├── zoom-original.png
+│   │   └── zoom-out.png
+│   ├── categories
+│   │   ├── accesories-screenshoot.png -> applets-screenshooter.png
+│   │   ├── accesories-screenshot.png -> applets-screenshooter.png
+│   │   ├── accessories-calculator.png
+│   │   ├── accessories-clock.png
+│   │   ├── accessories-dictionary.png -> accessories-ebook-reader.png
+│   │   ├── accessories-ebook-reader.png
+│   │   ├── accessories-notes.png
+│   │   ├── accessories-safe.png
+│   │   ├── accessories-screenshoot.png -> applets-screenshooter.png
+│   │   ├── accessories-text-editor.png
+│   │   ├── alacarte.png -> menulibre.png
+│   │   ├── Alacritty.png
+│   │   ├── anatine.png
+│   │   ├── apple.png
+│   │   ├── applets-screenshooter.png
+│   │   ├── applications-accessories.png
+│   │   ├── applications-all.png
+│   │   ├── applications-development.png -> ../mimetypes/text-x-script.png
+│   │   ├── applications-education.png
+│   │   ├── applications-games.png -> io.github.antimicrox.antimicrox.png
+│   │   ├── applications-graphics.png
+│   │   ├── applications-internet.png -> internet-web-browser.png
+│   │   ├── applications-multimedia.png
+│   │   ├── applications-office.png -> preferences-desktop-filetype-association.png
+│   │   ├── applications-other.png
+│   │   ├── applications-science.png -> applications-education.png
+│   │   ├── applications-system.png -> utilities-tweak-tool.png
+│   │   ├── applications-webbrowsers.png -> internet-web-browser.png
+│   │   ├── application-vnd.affinity-designer.png
+│   │   ├── app.xemu.xemu.png
+│   │   ├── ares.png
+│   │   ├── ark.png -> file-roller.png
+│   │   ├── arronax.png
+│   │   ├── assaultcube.png
+│   │   ├── atril.png
+│   │   ├── audacity.png
+│   │   ├── audio-mp3.png
+│   │   ├── avatar-default.png -> system-users.png
+│   │   ├── balena-etcher-electron.png
+│   │   ├── bigpemu.png
+│   │   ├── blender.png
+│   │   ├── bulky.png
+│   │   ├── chrome-beta.png
+│   │   ├── chrome.png
+│   │   ├── cinnamon-virtual-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── clementine.png
+│   │   ├── cmake-gui.png -> cmake.png
+│   │   ├── cmake.png
+│   │   ├── CMakeSetup.png -> cmake.png
+│   │   ├── code-oss.png -> visual-studio-code.png
+│   │   ├── compton.png
+│   │   ├── computer.png -> preferences-desktop-display.png
+│   │   ├── cs-applets.png
+│   │   ├── cs-backgrounds.png
+│   │   ├── cs-cat-admin.png
+│   │   ├── cs-cat-appearance.png -> preferences-desktop-theme.png
+│   │   ├── cs-cat-hardware.png -> preferences-desktop-keyboard.png
+│   │   ├── cs-cat-prefs.png -> utilities-tweak-tool.png
+│   │   ├── cs-cat-tweaks.png -> utilities-tweak-tool.png
+│   │   ├── cs-color.png -> preferences-desktop-color.png
+│   │   ├── cs-date-time.png -> accessories-clock.png
+│   │   ├── cs-default-applications.png -> preferences-desktop-default-applications.png
+│   │   ├── cs-desklets.png -> accessories-notes.png
+│   │   ├── cs-desktop-effects.png -> preferences-tweaks-shadows.png
+│   │   ├── cs-desktop.png -> ../places/folder-desktop.png
+│   │   ├── cs-details.png
+│   │   ├── cs-display.png -> preferences-desktop-display.png
+│   │   ├── cs-extensions.png
+│   │   ├── cs-fonts.png
+│   │   ├── cs-general.png -> utilities-tweak-tool.png
+│   │   ├── cs-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── cs-mouse.png -> preferences-desktop-mouse.png
+│   │   ├── cs-network.png -> network-wired.png
+│   │   ├── cs-notifications.png -> preferences-system-notifications.png
+│   │   ├── cs-online-accounts.png
+│   │   ├── cs-overview.png
+│   │   ├── cs-panel.png -> tint2.png
+│   │   ├── cs-power.png -> org.xfce.powermanager.png
+│   │   ├── cs-printer.png -> ../devices/printer.png
+│   │   ├── cs-privacy.png
+│   │   ├── cs-screensaver.png
+│   │   ├── cs-sound.png -> ../devices/audio-speakers.png
+│   │   ├── cs-startup-programs.png -> org.xfce.session.png
+│   │   ├── cs-tablet.png -> preferences-desktop-tablet.png
+│   │   ├── cs-themes.png -> preferences-desktop-theme.png
+│   │   ├── cs-tiling.png
+│   │   ├── cs-universal-access.png -> preferences-desktop-accessibility.png
+│   │   ├── cs-user.png -> system-users.png
+│   │   ├── cs-windows.png
+│   │   ├── cs-workspaces.png -> org.xfce.workspaces.png
+│   │   ├── desktop-environment-xfce.png
+│   │   ├── dialog-password.png
+│   │   ├── discord.png
+│   │   ├── disk-usage-analyzer.png
+│   │   ├── document-open-recent.png -> accessories-clock.png
+│   │   ├── dosbox.png
+│   │   ├── dosbox-x.png
+│   │   ├── drive-removable-media.png -> ../mimetypes/application-x-iso.png
+│   │   ├── duckstation-nogui.png -> duckstation.png
+│   │   ├── duckstation.png
+│   │   ├── duck_tank.png
+│   │   ├── emacs.png
+│   │   ├── email.png
+│   │   ├── es-de.png
+│   │   ├── eu.vcmi.VCMI.png
+│   │   ├── facebook.png
+│   │   ├── fbneo.png
+│   │   ├── feh.png -> ../mimetypes/image-x-generic.png
+│   │   ├── file-roller.png
+│   │   ├── file-system-manager.png -> system-file-manager.png
+│   │   ├── filezilla.png
+│   │   ├── firefox.png
+│   │   ├── flycast.png
+│   │   ├── fuse.png
+│   │   ├── futurepinball.png
+│   │   ├── gcolor2.png -> gcolor3.png
+│   │   ├── gcolor3.png
+│   │   ├── gcolor.png -> gcolor3.png
+│   │   ├── geometry-dash.png
+│   │   ├── gimp.png
+│   │   ├── github-desktop.png
+│   │   ├── github.png
+│   │   ├── godot.png
+│   │   ├── google-chrome.png -> chrome.png
+│   │   ├── gparted.png -> disk-usage-analyzer.png
+│   │   ├── gsplus.png
+│   │   ├── gtk-preferences.png -> utilities-tweak-tool.png
+│   │   ├── gtk-select-color.png -> gcolor3.png
+│   │   ├── gvim.png -> vim.png
+│   │   ├── half-life2.png
+│   │   ├── half-life.png
+│   │   ├── helltaker.png
+│   │   ├── help-about.png -> cs-details.png
+│   │   ├── help-browser.png -> org.gnome.Yelp.png
+│   │   ├── help-contents.png -> org.gnome.Yelp.png
+│   │   ├── help.contents.png -> org.gnome.Yelp.png
+│   │   ├── htop.png
+│   │   ├── hwloc.png -> ../devices/cpu.png
+│   │   ├── hypseus.png
+│   │   ├── ibus-setup.png -> utilities-tweak-tool.png
+│   │   ├── ikemego.png
+│   │   ├── info.cemu.Cemu.png
+│   │   ├── inkscape.png
+│   │   ├── input-keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── internet-web-browser.png
+│   │   ├── io.github.antimicrox.antimicrox.png
+│   │   ├── io.github.ihhub.Fheroes2.png
+│   │   ├── itch.png
+│   │   ├── kde-frameworks.png
+│   │   ├── kdenlive.png
+│   │   ├── kfontview.png -> cs-fonts.png
+│   │   ├── klipper.png -> accessories-notes.png
+│   │   ├── kmenuedit.png -> menulibre.png
+│   │   ├── knetattach.png -> internet-web-browser.png
+│   │   ├── kotatogram.png -> telegram.png
+│   │   ├── krita.png
+│   │   ├── kwalletmanager.png
+│   │   ├── libreoffice-base.png
+│   │   ├── libreoffice-calc.png
+│   │   ├── libreoffice-draw.png
+│   │   ├── libreoffice-impress.png
+│   │   ├── libreoffice-math.png
+│   │   ├── libreoffice.png
+│   │   ├── libreoffice-startcenter.png -> libreoffice.png
+│   │   ├── libreoffice-writer.png
+│   │   ├── lightdm-gtk-greeter-settings.png
+│   │   ├── lime3ds.png
+│   │   ├── linapple.png
+│   │   ├── links-48x48.xpm.png -> internet-web-browser.png
+│   │   ├── lmms.png
+│   │   ├── lutris.png
+│   │   ├── map-globe.png -> internet-web-browser.png
+│   │   ├── mate-desktop.png
+│   │   ├── mate-disk-usage-analyzer.png -> disk-usage-analyzer.png
+│   │   ├── mate-notification-properties.png -> preferences-system-notifications.png
+│   │   ├── mate-panel.png -> tint2.png
+│   │   ├── mate-session-properties.png -> org.xfce.session.png
+│   │   ├── mate-system-log.png
+│   │   ├── menulibre.png
+│   │   ├── microsoft-edge.png
+│   │   ├── midori.png
+│   │   ├── minecraft.png
+│   │   ├── mpv.png
+│   │   ├── multimedia-volume-control.png -> ../devices/audio-speakers.png
+│   │   ├── nestopia.png
+│   │   ├── net.kuribo64.melonDS.png
+│   │   ├── net.openra.OpenRA.png
+│   │   ├── net.pcsx2.PCSX2.png
+│   │   ├── net.retrodeck.retrodeck.png
+│   │   ├── net.rpcs3.RPCS3.png
+│   │   ├── net.veloren.airshipper.png
+│   │   ├── network-wired.png
+│   │   ├── network-workgroup.png -> network-wired.png
+│   │   ├── nl.hjdskes.gcolor3.png -> gcolor3.png
+│   │   ├── nm-device-wireless.png -> network-wired.png
+│   │   ├── nnn.png
+│   │   ├── notepadqq.png
+│   │   ├── nvim.png
+│   │   ├── octopi.png
+│   │   ├── okular.png
+│   │   ├── openarena.png
+│   │   ├── openarena-server.png
+│   │   ├── openbor.png
+│   │   ├── opera-beta.png
+│   │   ├── opera-developer.png
+│   │   ├── opera.png
+│   │   ├── org.citra_emu.citra.png
+│   │   ├── org.DolphinEmu.dolphin-emu.png
+│   │   ├── org.gnome.ArchiveManager.png -> file-roller.png
+│   │   ├── org.gnome.clocks.png -> accessories-clock.png
+│   │   ├── org.gnome.Nautilus.png -> file-system-manager.png
+│   │   ├── org.gnome.Screenshot.png -> applets-screenshooter.png
+│   │   ├── org.gnome.Yelp.png
+│   │   ├── org.gtk.IconBrowser4.png -> preferences-desktop-icons.png
+│   │   ├── org.inkscape.Inkscape.png -> inkscape.png
+│   │   ├── org.mamedev.MAME.png
+│   │   ├── org.midori_browser.Midori.png -> midori.png
+│   │   ├── org.openmw.OpenMW.png
+│   │   ├── org.openttd.OpenTTD.png
+│   │   ├── org.ppsspp.PPSSPP.png
+│   │   ├── org.ppsspp.PPSSPP_.png
+│   │   ├── org.prismlauncher.PrismLauncher.png
+│   │   ├── org.rnd2.cpupower-gui.png -> ../devices/cpu.png
+│   │   ├── org.ryujinx.Ryujinx.png
+│   │   ├── org.xfce.about.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.appfinder.png -> preferences-system-search.png
+│   │   ├── org.xfce.filemanager.png -> ../places/folder.png
+│   │   ├── org.xfce.garcon.png -> menulibre.png
+│   │   ├── org.xfce.mailreader.png -> email.png
+│   │   ├── org.xfce.notification.png -> preferences-system-notifications.png
+│   │   ├── org.xfce.panel.actions.png -> system-shutdown.png
+│   │   ├── org.xfce.panel.applicationsmenu.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.panel.png -> tint2.png
+│   │   ├── org.xfce.panel.tasklist.png -> tint2.png
+│   │   ├── org.xfce.panel.whiskermenu.png -> desktop-environment-xfce.png
+│   │   ├── org.xfce.panel.windowmenu.png -> menulibre.png
+│   │   ├── org.xfce.powermanager.png -> ../devices/battery.png
+│   │   ├── org.xfce.session.png
+│   │   ├── org.xfce.settings.accessibility.png -> preferences-desktop-accessibility.png
+│   │   ├── org.xfce.settings.appearance.png -> preferences-desktop-theme.png
+│   │   ├── org.xfce.settings.color.png -> preferences-desktop-color.png
+│   │   ├── org.xfce.settings.default-applications.png -> preferences-desktop-default-applications.png
+│   │   ├── org.xfce.settings.display.png -> preferences-desktop-display.png
+│   │   ├── org.xfce.settings.editor.png -> utilities-tweak-tool.png
+│   │   ├── org.xfce.settings.keyboard.png -> preferences-desktop-keyboard.png
+│   │   ├── org.xfce.settings.manager.png -> utilities-tweak-tool.png
+│   │   ├── org.xfce.settings.mouse.png -> ../devices/input-mouse.png
+│   │   ├── org.xfce.terminalemulator.png -> utilities-terminal.png
+│   │   ├── org.xfce.terminal.png -> utilities-terminal.png
+│   │   ├── org.xfce.terminal-settings.png -> utilities-terminal.png
+│   │   ├── org.xfce.thunar.png -> ../places/folder-green.png
+│   │   ├── org.xfce.tumbler.png -> ../mimetypes/image-x-generic.png
+│   │   ├── org.xfce.volman.png -> ventoy.png
+│   │   ├── org.xfce.webbrowser.png -> internet-web-browser.png
+│   │   ├── org.xfce.workspaces.png
+│   │   ├── org.xfce.xfdesktop.png -> ../places/folder-desktop.png
+│   │   ├── org.xfce.xfwm4.png -> cs-windows.png
+│   │   ├── org.xfce.xfwm4-tweaks.png -> utilities-tweak-tool.png
+│   │   ├── org.yuzu_emu.yuzu.png
+│   │   ├── org.zdoom.GZDoom.png
+│   │   ├── oricutron.png
+│   │   ├── pcsxr-icon.png
+│   │   ├── picom.png
+│   │   ├── plasma.png -> plasmashell.png
+│   │   ├── plasma-search.png -> preferences-system-search.png
+│   │   ├── plasmashell.png
+│   │   ├── playonlinux.png
+│   │   ├── portal2.png
+│   │   ├── portmaster.png
+│   │   ├── preferences-desktop-accessibility.png
+│   │   ├── preferences-desktop-activities.png -> org.xfce.workspaces.png
+│   │   ├── preferences-desktop-baloo.png -> preferences-system-search.png
+│   │   ├── preferences-desktop-color.png
+│   │   ├── preferences-desktop-cursors.png
+│   │   ├── preferences-desktop-default-applications.png
+│   │   ├── preferences-desktop-display-nightcolor.png -> preferences-desktop-display.png
+│   │   ├── preferences-desktop-display.png
+│   │   ├── preferences-desktop-emoticons.png
+│   │   ├── preferences-desktop-feedback.png
+│   │   ├── preferences-desktop-filetype-association.png
+│   │   ├── preferences-desktop-font-installer.png -> cs-fonts.png
+│   │   ├── preferences-desktop-font.png -> preferences-desktop-font-installer.png
+│   │   ├── preferences-desktop-gaming.png -> io.github.antimicrox.antimicrox.png
+│   │   ├── preferences-desktop-icons.png
+│   │   ├── preferences-desktop-keyboard.png
+│   │   ├── preferences-desktop-keyboard-shortcut.png -> preferences-desktop-keyboard.png
+│   │   ├── preferences-desktop-keyboard-shortcuts.png
+│   │   ├── preferences-desktop-launch-feedback.png -> org.xfce.session.png
+│   │   ├── preferences-desktop-locale.png
+│   │   ├── preferences-desktop-mouse.png -> ../devices/input-mouse.png
+│   │   ├── preferences-desktop-notification-bell.png -> preferences-system-notifications.png
+│   │   ├── preferences-desktop-peripherals.png -> ../devices/input-mouse.png
+│   │   ├── preferences-desktop-personal.png -> system-users.png
+│   │   ├── preferences-desktop-plasma-theme.png
+│   │   ├── preferences-desktop.png -> utilities-tweak-tool.png
+│   │   ├── preferences-desktop-tablet.png
+│   │   ├── preferences-desktop-theme-applications.png
+│   │   ├── preferences-desktop-theme-global.png -> preferences-desktop-theme.png
+│   │   ├── preferences-desktop-theme.png
+│   │   ├── preferences-desktop-touchpad.png
+│   │   ├── preferences-desktop-user.png -> system-users.png
+│   │   ├── preferences-desktop-wallpaper.png -> cs-backgrounds.png
+│   │   ├── preferences-system-network.png -> network-wired.png
+│   │   ├── preferences-system-notifications.png
+│   │   ├── preferences-system.png -> utilities-tweak-tool.png
+│   │   ├── preferences-system-search.png
+│   │   ├── preferences-system-session-services.png -> ../mimetypes/application-x-executable.png
+│   │   ├── preferences-system-splash.png
+│   │   ├── preferences-system-time.png -> accessories-clock.png
+│   │   ├── preferences-system-users.png -> system-users.png
+│   │   ├── preferences-system-windows-actions.png
+│   │   ├── preferences-system-windows.png -> preferences-system-windows-actions.png
+│   │   ├── preferences-tweaks-shadows.png
+│   │   ├── primehack.png
+│   │   ├── pvz.png
+│   │   ├── qemu.png
+│   │   ├── QtProject-qtcreator.png
+│   │   ├── raze.png
+│   │   ├── redream.png
+│   │   ├── retroarch.png
+│   │   ├── romm.png
+│   │   ├── roxterm.png -> utilities-terminal.png
+│   │   ├── ruffle.png
+│   │   ├── scummvm.png
+│   │   ├── sdltrs.png
+│   │   ├── search.png -> preferences-system-search.png
+│   │   ├── security-high.png
+│   │   ├── security-low.png
+│   │   ├── security-medium.png
+│   │   ├── simcoupe.png
+│   │   ├── simplescreenrecorder.png
+│   │   ├── skullgirls.png
+│   │   ├── snes9x.png
+│   │   ├── solarus.png
+│   │   ├── spacefm-find.png -> ../places/folder-saved-search.png
+│   │   ├── spacefm.png -> ../places/folder.png
+│   │   ├── spotify.png
+│   │   ├── steam_icon_1289310.png -> helltaker.png
+│   │   ├── steam_icon_20.png -> team-fortress-classic.png
+│   │   ├── steam_icon_245170.png -> skullgirls.png
+│   │   ├── steam_icon_322170.png -> geometry-dash.png
+│   │   ├── steam_icon_3590.png -> pvz.png
+│   │   ├── steam_icon_620.png -> portal2.png
+│   │   ├── steam_icon_70.png -> half-life.png
+│   │   ├── steam.png
+│   │   ├── stella.png
+│   │   ├── strawberry.png
+│   │   ├── supermodel.png
+│   │   ├── supertuxkart.png
+│   │   ├── system-file-manager.png -> ../places/folder.png
+│   │   ├── system-lock-screen.png -> system-suspend.png
+│   │   ├── system-log-out.png -> system-logout.png
+│   │   ├── system-logout.png
+│   │   ├── system-reboot.png
+│   │   ├── system-run.png -> ../mimetypes/application-x-executable.png
+│   │   ├── system-search.png -> preferences-system-search.png
+│   │   ├── systemsettings.png -> utilities-tweak-tool.png
+│   │   ├── system-shutdown.png
+│   │   ├── system-software-install.png
+│   │   ├── system-suspend-hibernate.png
+│   │   ├── system-suspend.png
+│   │   ├── system-switch-user.png
+│   │   ├── system-users.png
+│   │   ├── team-fortress-classic.png
+│   │   ├── telegram.png
+│   │   ├── terminal-tango.png -> utilities-terminal.png
+│   │   ├── tesseract.png
+│   │   ├── text-x-chdr.png
+│   │   ├── tint2conf.png -> tint2.png
+│   │   ├── tint2.png
+│   │   ├── tools-check-spelling.png
+│   │   ├── tsugaru.png
+│   │   ├── twitter.png
+│   │   ├── uget-icon.png
+│   │   ├── urbanterror.png
+│   │   ├── user-info.png -> system-users.png
+│   │   ├── utilities-system-monitor.png
+│   │   ├── utilities-terminal.png
+│   │   ├── utilities-tweak-tool.png
+│   │   ├── ventoy.png
+│   │   ├── video-display.png -> preferences-desktop-display.png
+│   │   ├── viewnior.png -> ../mimetypes/image-x-generic.png
+│   │   ├── vim.png
+│   │   ├── virt-manager.png
+│   │   ├── virtualbox.png
+│   │   ├── visual-studio-code.png
+│   │   ├── vita3k.png
+│   │   ├── vivaldi.png
+│   │   ├── vpinball.png
+│   │   ├── vscodium.png
+│   │   ├── waterfox.png
+│   │   ├── wine.png
+│   │   ├── xarchiver.png -> file-roller.png
+│   │   ├── xenia.png
+│   │   ├── xfce4-logo.png -> desktop-environment-xfce.png
+│   │   ├── xfce4-panel.png -> tint2.png
+│   │   ├── xfce4-settings.png -> utilities-tweak-tool.png
+│   │   ├── xfce-display-profile.png -> system-users.png
+│   │   ├── xfsm-hibernate.png -> system-suspend-hibernate.png
+│   │   ├── xfsm-lock.png -> system-suspend.png
+│   │   ├── xfsm-logout.png -> system-logout.png
+│   │   ├── xfsm-reboot.png -> system-reboot.png
+│   │   ├── xfsm-shutdown.png -> system-shutdown.png
+│   │   ├── xfsm-suspend-hibernate.png -> system-suspend-hibernate.png
+│   │   ├── xfsm-suspend.png -> system-suspend.png
+│   │   ├── xfsm-switch-user.png -> system-switch-user.png
+│   │   ├── xfsm-users.png -> system-users.png
+│   │   ├── youtube-music.png
+│   │   ├── youtube.png
+│   │   └── zsnes.png
+│   ├── devices
+│   │   ├── audio-card.png
+│   │   ├── audio-headphones.png
+│   │   ├── audio-speakers.png
+│   │   ├── battery.png
+│   │   ├── camera-photo.png
+│   │   ├── cpu.png
+│   │   ├── drive-harddisk.png
+│   │   ├── drive-optical.png
+│   │   ├── input-mouse.png
+│   │   ├── input-tablet.png -> ../apps/preferences-desktop-tablet.png
+│   │   ├── media-optical.png -> ../mimetypes/application-x-iso.png
+│   │   ├── media-removable.png -> ../apps/ventoy.png
+│   │   ├── multimedia-player.png
+│   │   ├── network-server.png
+│   │   ├── network-wired.png -> ../apps/network-wired.png
+│   │   └── printer.png
+│   ├── distributor-logo
+│   │   ├── distributor-logo-absolute.png
+│   │   ├── distributor-logo-academix.png
+│   │   ├── distributor-logo-aix.png
+│   │   ├── distributor-logo-alpine.png
+│   │   ├── distributor-logo-android.png
+│   │   ├── distributor-logo-antergos.png
+│   │   ├── distributor-logo-antix.png
+│   │   ├── distributor-logo-apple.png
+│   │   ├── distributor-logo-archbang.png
+│   │   ├── distributor-logo-archlabs.png
+│   │   ├── distributor-logo-archman.png
+│   │   ├── distributor-logo-arch.png
+│   │   ├── distributor-logo-arco.png
+│   │   ├── distributor-logo-artix.png
+│   │   ├── distributor-logo-arya.png
+│   │   ├── distributor-logo-atari.png
+│   │   ├── distributor-logo-awesome.png
+│   │   ├── distributor-logo-backbox.png
+│   │   ├── distributor-logo-batocera.png
+│   │   ├── distributor-logo-blackarch.png
+│   │   ├── distributor-logo-bodhi.png
+│   │   ├── distributor-logo-busenlabs.png
+│   │   ├── distributor-logo-calculate.png
+│   │   ├── distributor-logo-centos.png
+│   │   ├── distributor-logo-chakra.png
+│   │   ├── distributor-logo-cinnamon.png
+│   │   ├── distributor-logo-commodore.png
+│   │   ├── distributor-logo-condres.png
+│   │   ├── distributor-logo-debian.png
+│   │   ├── distributor-logo-deepin.png
+│   │   ├── distributor-logo-devuan.png
+│   │   ├── distributor-logo-dragonflybsd.png
+│   │   ├── distributor-logo-elementary.png
+│   │   ├── distributor-logo-endeavour.png
+│   │   ├── distributor-logo-fedora.png
+│   │   ├── distributor-logo-fluxbox.png
+│   │   ├── distributor-logo-freebsd.png
+│   │   ├── distributor-logo-freenas.png
+│   │   ├── distributor-logo-funtoo.png
+│   │   ├── distributor-logo-gentoo.png
+│   │   ├── distributor-logo-ghostbsd.png
+│   │   ├── distributor-logo-gnome.png
+│   │   ├── distributor-logo-haiku.png
+│   │   ├── distributor-logo-i3.png
+│   │   ├── distributor-logo-icewm.png
+│   │   ├── distributor-logo-illumos.png
+│   │   ├── distributor-logo-kai.png
+│   │   ├── distributor-logo-kali.png
+│   │   ├── distributor-logo-kaos.png
+│   │   ├── distributor-logo-knoppix.png
+│   │   ├── distributor-logo-kokora.png
+│   │   ├── distributor-logo-kubuntu.png
+│   │   ├── distributor-logo-linuxlite.png
+│   │   ├── distributor-logo-linux.png
+│   │   ├── distributor-logo-lxde.png
+│   │   ├── distributor-logo-lxle.png
+│   │   ├── distributor-logo-lxqt.png
+│   │   ├── distributor-logo-macos.png
+│   │   ├── distributor-logo-mageia.png
+│   │   ├── distributor-logo-manjaro.png
+│   │   ├── distributor-logo-mate.png -> ../apps/mate-desktop.png
+│   │   ├── distributor-logo-mint.png
+│   │   ├── distributor-logo-msdos.png
+│   │   ├── distributor-logo-mx.png
+│   │   ├── distributor-logo-neon.png
+│   │   ├── distributor-logo-netbsd.png
+│   │   ├── distributor-logo-openbsd.png
+│   │   ├── distributor-logo-openindiana.png
+│   │   ├── distributor-logo-opensuse.png
+│   │   ├── distributor-logo-peppermint.png
+│   │   ├── distributor-logo-plasma.png -> ../apps/plasmashell.png
+│   │   ├── distributor-logo-popos.png
+│   │   ├── distributor-logo-rhel.png
+│   │   ├── distributor-logo-solus.png
+│   │   ├── distributor-logo-ubuntu-budgie.png
+│   │   ├── distributor-logo-ubuntu.png
+│   │   ├── distributor-logo-ubuntu-studio.png
+│   │   ├── distributor-logo-void.png
+│   │   ├── distributor-logo-voyager.png
+│   │   ├── distributor-logo-windows.png
+│   │   ├── distributor-logo-xfce.png -> ../apps/desktop-environment-xfce.png
+│   │   └── distributor-logo-zorin.png
+│   ├── emblems
+│   │   ├── emblem-cloud.png
+│   │   ├── emblem-default.png
+│   │   ├── emblem-documents.png
+│   │   ├── emblem-downloads.png
+│   │   ├── emblem-encrypted-locked.png
+│   │   ├── emblem-encrypted-unlocked.png
+│   │   ├── emblem-favorite.png
+│   │   ├── emblem-generic.png
+│   │   ├── emblem-important.png
+│   │   ├── emblem-information.png
+│   │   ├── emblem-mail.png
+│   │   ├── emblem-new.png
+│   │   ├── emblem-pause.png
+│   │   ├── emblem-photos.png
+│   │   ├── emblem-question.png
+│   │   ├── emblem-readonly.png
+│   │   ├── emblem-remove.png
+│   │   ├── emblem-shared.png
+│   │   ├── emblem-symbolic-link.png
+│   │   ├── emblem-synchronizing.png
+│   │   ├── emblem-system.png
+│   │   ├── emblem-unlocked.png
+│   │   ├── emblem-unreadable.png
+│   │   ├── emblem-urgent.png
+│   │   └── emblem-web.png
+│   ├── mimetypes
+│   │   ├── application-afdesigner.png -> ../apps/application-vnd.affinity-designer.png
+│   │   ├── application-gzip.png -> application-zip.png
+│   │   ├── application-pdf.png
+│   │   ├── application-vnd.oasis.opendocument.chart.png -> x-office-spreadsheet.png
+│   │   ├── application-vnd.oasis.opendocument.formula.png -> ../apps/libreoffice-calc.png
+│   │   ├── application-vnd.oasis.opendocument.graphics.png -> ../apps/libreoffice-draw.png
+│   │   ├── application-vnd.oasis.opendocument.presentation.png -> x-office-presentation.png
+│   │   ├── application-vnd.oasis.opendocument.text.png -> x-office-document.png
+│   │   ├── application-vnd.sun.xml.base.png -> ../apps/libreoffice-base.png
+│   │   ├── application-x-7z-compressed.png -> application-zip.png
+│   │   ├── application-x-7z-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-bzip-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-cd-image.png -> application-x-iso.png
+│   │   ├── application-x-compressed-iso.png -> application-x-iso.png
+│   │   ├── application-x-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-compress.png -> application-zip.png
+│   │   ├── application-x-cpio.png -> application-zip.png
+│   │   ├── application-x-designer.png
+│   │   ├── application-x-executable.png
+│   │   ├── application-x-gzip.png -> application-zip.png
+│   │   ├── application-x-iso.png
+│   │   ├── application-x-kdenlive.png -> ../apps/kdenlive.png
+│   │   ├── application-x-lzip-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-lzma-compressed-tar.png -> application-x-tar.png
+│   │   ├── application-x-object.png -> application-x-executable.png
+│   │   ├── application-x-tar.png -> application-zip.png
+│   │   ├── application-x-theme.png -> ../apps/preferences-desktop-theme.png
+│   │   ├── application-x-windows-themepack.png -> application-x-theme.png
+│   │   ├── application-x-xz-compressed-tar.png -> application-zip.png
+│   │   ├── application-x-zip-compressed-fb2.png -> application-zstd.png
+│   │   ├── application-zip.png -> application-zstd.png
+│   │   ├── application-zstd.png -> ../apps/file-roller.png
+│   │   ├── audio-midi.png -> audio-x-generic.png
+│   │   ├── audio-mp3.png -> audio-x-generic.png
+│   │   ├── audio-x-generic.png
+│   │   ├── image-x-generic.png
+│   │   ├── inode-directory.png -> folder-green.png
+│   │   ├── inode-directory.svg -> folder-green.png
+│   │   ├── template.png
+│   │   ├── text-markdown.png
+│   │   ├── text-x-chdr.png
+│   │   ├── text-x-cmake.png -> ../apps/cmake.png
+│   │   ├── text-x-c++src.png
+│   │   ├── text-x-csrc.png
+│   │   ├── text-x-emacs-lisp.png -> ../apps/emacs.png
+│   │   ├── text-x-generic.png
+│   │   ├── text-x-makefile.png
+│   │   ├── text-x-script.png
+│   │   ├── video-x-generic.png
+│   │   ├── x-office-document.png -> ../apps/libreoffice-writer.png
+│   │   ├── x-office-presentation.png -> ../apps/libreoffice-impress.png
+│   │   ├── x-office-spreadsheet.png -> ../apps/libreoffice-calc.png
+│   │   └── x-partial-download.png
+│   ├── places
+│   │   ├── default-folder.png
+│   │   ├── folder16open.png
+│   │   ├── folder16.png
+│   │   ├── folder-activities.png
+│   │   ├── folder-android.png
+│   │   ├── folder-apple.png
+│   │   ├── folder-applications.png
+│   │   ├── folder-arduino.png
+│   │   ├── folder-backup.png
+│   │   ├── folder-blue-activities.png
+│   │   ├── folder-blue-android.png
+│   │   ├── folder-blue-apple.png
+│   │   ├── folder-blue-applications.png
+│   │   ├── folder-blue-arduino.png
+│   │   ├── folder-blue-backup.png
+│   │   ├── folder-blue-cd.png
+│   │   ├── folder-blue-cloud.png
+│   │   ├── folder-blue-code.png
+│   │   ├── folder-blue-desktop.png
+│   │   ├── folder-blue-development.png
+│   │   ├── folder-blue-documents-open.png
+│   │   ├── folder-blue-documents.png
+│   │   ├── folder-blue-downloads-open.png
+│   │   ├── folder-blue-downloads.png
+│   │   ├── folder-blue-drag-accept.png
+│   │   ├── folder-blue-favorites.png
+│   │   ├── folder-blue-games.png
+│   │   ├── folder-blue-github.png
+│   │   ├── folder-blue-git.png
+│   │   ├── folder-blue-gnome.png
+│   │   ├── folder-blue-google-drive.png
+│   │   ├── folder-blue-image-people.png
+│   │   ├── folder-blue-important.png
+│   │   ├── folder-blue-java.png
+│   │   ├── folder-blue-kde.png
+│   │   ├── folder-blue-linux.png
+│   │   ├── folder-blue-locked.png
+│   │   ├── folder-blue-mail.png
+│   │   ├── folder-blue-mega.png
+│   │   ├── folder-blue-meocloud.png
+│   │   ├── folder-blue-music-open.png
+│   │   ├── folder-blue-music.png
+│   │   ├── folder-blue-network.png
+│   │   ├── folder-blue-nextcloud.png
+│   │   ├── folder-blue-open.png
+│   │   ├── folder-blue-pcloud.png
+│   │   ├── folder-blue-photo.png
+│   │   ├── folder-blue-pictures-open.png
+│   │   ├── folder-blue-pictures.png
+│   │   ├── folder-blue.png
+│   │   ├── folder-blue-print.png
+│   │   ├── folder-blue-private.png
+│   │   ├── folder-blue-publicshare.png
+│   │   ├── folder-blue-recent.png
+│   │   ├── folder-blue-remote-open.png
+│   │   ├── folder-blue-remote.png
+│   │   ├── folder-blue-saved-search.png
+│   │   ├── folder-blue-script.png
+│   │   ├── folder-blue-steam.png
+│   │   ├── folder-blue-sync.png
+│   │   ├── folder-blue-syncthing.png
+│   │   ├── folder-blue-tar.png
+│   │   ├── folder-blue-templates-open.png
+│   │   ├── folder-blue-templates.png
+│   │   ├── folder-blue-torrent.png
+│   │   ├── folder-blue-unlocked.png
+│   │   ├── folder-blue-vbox.png
+│   │   ├── folder-blue-video-open.png
+│   │   ├── folder-blue-video.png
+│   │   ├── folder-blue-visiting.png
+│   │   ├── folder-blue-vmware.png
+│   │   ├── folder-blue-wifi.png
+│   │   ├── folder-blue-wine.png
+│   │   ├── folder-cd.png
+│   │   ├── folder-cloud.png
+│   │   ├── folder-code.png
+│   │   ├── folder-desktop.png
+│   │   ├── folder-development.png
+│   │   ├── folder-documents-open.png
+│   │   ├── folder-documents.png
+│   │   ├── folder-download-open.png -> folder-downloads-open.png
+│   │   ├── folder-download.png -> folder-downloads.png
+│   │   ├── folder-downloads-open.png
+│   │   ├── folder-downloads.png
+│   │   ├── folder-drag-accept.png
+│   │   ├── folder-favorites.png
+│   │   ├── folder-games.png
+│   │   ├── folder-github.png
+│   │   ├── folder-git.png
+│   │   ├── folder-gnome.png
+│   │   ├── folder-google-drive.png
+│   │   ├── folder-green-activities.png
+│   │   ├── folder-green-android.png
+│   │   ├── folder-green-apple.png
+│   │   ├── folder-green-applications.png
+│   │   ├── folder-green-arduino.png
+│   │   ├── folder-green-backup.png
+│   │   ├── folder-green-cd.png
+│   │   ├── folder-green-cloud.png
+│   │   ├── folder-green-code.png
+│   │   ├── folder-green-desktop.png
+│   │   ├── folder-green-development.png
+│   │   ├── folder-green-documents-open.png
+│   │   ├── folder-green-documents.png
+│   │   ├── folder-green-downloads-open.png
+│   │   ├── folder-green-downloads.png
+│   │   ├── folder-green-drag-accept.png
+│   │   ├── folder-green-favorites.png
+│   │   ├── folder-green-games.png
+│   │   ├── folder-green-github.png
+│   │   ├── folder-green-git.png
+│   │   ├── folder-green-gnome.png
+│   │   ├── folder-green-google-drive.png
+│   │   ├── folder-green-image-people.png
+│   │   ├── folder-green-important.png
+│   │   ├── folder-green-java.png
+│   │   ├── folder-green-kde.png
+│   │   ├── folder-green-linux.png
+│   │   ├── folder-green-locked.png
+│   │   ├── folder-green-mail.png
+│   │   ├── folder-green-mega.png
+│   │   ├── folder-green-meocloud.png
+│   │   ├── folder-green-music-open.png
+│   │   ├── folder-green-music.png
+│   │   ├── folder-green-network.png
+│   │   ├── folder-green-nextcloud.png
+│   │   ├── folder-green-open.png
+│   │   ├── folder-green-pcloud.png
+│   │   ├── folder-green-photo.png
+│   │   ├── folder-green-pictures-open.png
+│   │   ├── folder-green-pictures.png
+│   │   ├── folder-green.png
+│   │   ├── folder-green-print.png
+│   │   ├── folder-green-private.png
+│   │   ├── folder-green-publicshare.png
+│   │   ├── folder-green-recent.png
+│   │   ├── folder-green-remote-open.png
+│   │   ├── folder-green-remote.png
+│   │   ├── folder-green-saved-search.png
+│   │   ├── folder-green-script.png
+│   │   ├── folder-green-steam.png
+│   │   ├── folder-green-sync.png
+│   │   ├── folder-green-syncthing.png
+│   │   ├── folder-green-tar.png
+│   │   ├── folder-green-templates-open.png
+│   │   ├── folder-green-templates.png
+│   │   ├── folder-green-torrent.png
+│   │   ├── folder-green-unlocked.png
+│   │   ├── folder-green-vbox.png
+│   │   ├── folder-green-video-open.png
+│   │   ├── folder-green-video.png
+│   │   ├── folder-green-visiting.png
+│   │   ├── folder-green-vmware.png
+│   │   ├── folder-green-wifi.png
+│   │   ├── folder-green-wine.png
+│   │   ├── folder-image-people.png
+│   │   ├── folder-important.png
+│   │   ├── folder-java.png
+│   │   ├── folder-kde.png
+│   │   ├── folder-linux.png
+│   │   ├── folder-locked.png
+│   │   ├── folder-mail.png
+│   │   ├── folder-mega.png
+│   │   ├── folder-meocloud.png
+│   │   ├── folder-music-open.png
+│   │   ├── folder-music.png
+│   │   ├── folder-network.png
+│   │   ├── folder-nextcloud.png
+│   │   ├── folder-onedrive.png -> folder-cloud.png
+│   │   ├── folder-open.png
+│   │   ├── folder-pcloud.png
+│   │   ├── folder-photo.png
+│   │   ├── folder-pictures-open.png
+│   │   ├── folder-pictures.png
+│   │   ├── folder.png -> folder-green.png
+│   │   ├── folder-print.png
+│   │   ├── folder-private.png
+│   │   ├── folder-public.png -> folder-image-people.png
+│   │   ├── folder-publicshare.png
+│   │   ├── folder-recent.png
+│   │   ├── folder-red-activities.png
+│   │   ├── folder-red-android.png
+│   │   ├── folder-red-apple.png
+│   │   ├── folder-red-applications.png
+│   │   ├── folder-red-arduino.png
+│   │   ├── folder-red-backup.png
+│   │   ├── folder-red-cd.png
+│   │   ├── folder-red-cloud.png
+│   │   ├── folder-red-code.png
+│   │   ├── folder-red-desktop.png
+│   │   ├── folder-red-development.png
+│   │   ├── folder-red-documents-open.png
+│   │   ├── folder-red-documents.png
+│   │   ├── folder-red-downloads-open.png
+│   │   ├── folder-red-downloads.png
+│   │   ├── folder-red-drag-accept.png
+│   │   ├── folder-red-favorites.png
+│   │   ├── folder-red-games.png
+│   │   ├── folder-red-github.png
+│   │   ├── folder-red-git.png
+│   │   ├── folder-red-gnome.png
+│   │   ├── folder-red-google-drive.png
+│   │   ├── folder-red-image-people.png
+│   │   ├── folder-red-important.png
+│   │   ├── folder-red-java.png
+│   │   ├── folder-red-kde.png
+│   │   ├── folder-red-linux.png
+│   │   ├── folder-red-locked.png
+│   │   ├── folder-red-mail.png
+│   │   ├── folder-red-mega.png
+│   │   ├── folder-red-meocloud.png
+│   │   ├── folder-red-music-open.png
+│   │   ├── folder-red-music.png
+│   │   ├── folder-red-network.png
+│   │   ├── folder-red-nextcloud.png
+│   │   ├── folder-red-open.png
+│   │   ├── folder-red-pcloud.png
+│   │   ├── folder-red-photo.png
+│   │   ├── folder-red-pictures-open.png
+│   │   ├── folder-red-pictures.png
+│   │   ├── folder-red.png
+│   │   ├── folder-red-print.png
+│   │   ├── folder-red-private.png
+│   │   ├── folder-red-publicshare.png
+│   │   ├── folder-red-recent.png
+│   │   ├── folder-red-remote-open.png
+│   │   ├── folder-red-remote.png
+│   │   ├── folder-red-saved-search.png
+│   │   ├── folder-red-script.png
+│   │   ├── folder-red-steam.png
+│   │   ├── folder-red-sync.png
+│   │   ├── folder-red-syncthing.png
+│   │   ├── folder-red-tar.png
+│   │   ├── folder-red-templates-open.png
+│   │   ├── folder-red-templates.png
+│   │   ├── folder-red-torrent.png
+│   │   ├── folder-red-unlocked.png
+│   │   ├── folder-red-vbox.png
+│   │   ├── folder-red-video-open.png
+│   │   ├── folder-red-video.png
+│   │   ├── folder-red-visiting.png
+│   │   ├── folder-red-vmware.png
+│   │   ├── folder-red-wifi.png
+│   │   ├── folder-red-wine.png
+│   │   ├── folder-remote-open.png
+│   │   ├── folder-remote.png
+│   │   ├── folder-saved-search.png
+│   │   ├── folder-script.png
+│   │   ├── folder-steam.png
+│   │   ├── folder-sync.png
+│   │   ├── folder-syncthing.png
+│   │   ├── folder-tar.png
+│   │   ├── folder-templates-open.png
+│   │   ├── folder-templates.png
+│   │   ├── folder-torrent.png
+│   │   ├── folder-unlocked.png
+│   │   ├── folder-vbox.png
+│   │   ├── folder-video-open.png
+│   │   ├── folder-video.png
+│   │   ├── folder-videos-open.png -> folder-video-open.png
+│   │   ├── folder-videos.png -> folder-video.png
+│   │   ├── folder-visiting.png
+│   │   ├── folder-vmware.png
+│   │   ├── folder-wifi.png
+│   │   ├── folder-wine.png
+│   │   ├── stock_folder.png
+│   │   ├── user-blue-home.png
+│   │   ├── user-bookmarks.png -> folder-favorites.png
+│   │   ├── user-desktop.png -> folder-desktop.png
+│   │   ├── user-green-home.png
+│   │   ├── user-home.png
+│   │   ├── user-red-home.png
+│   │   ├── user-trash-full.png
+│   │   └── user-trash.png
+│   └── status
+│       ├── audio-volume-high.png
+│       ├── audio-volume-low.png
+│       ├── audio-volume-medium.png
+│       ├── battery-full-charging.png
+│       ├── battery-full.png -> battery-full-charging.png
+│       ├── battery-good-charging.png
+│       ├── battery-good.png
+│       ├── battery-low-charging.png
+│       ├── battery-low.png
+│       ├── battery-missing.png
+│       ├── media-playback-pause.png
+│       ├── media-playback-start.png
+│       ├── network-error.png -> notification-network-ethernet-disconnected.png
+│       ├── network-offline.png -> notification-network-ethernet-disconnected.png
+│       ├── notification-audio-volume-muted.png
+│       ├── notification-network-ethernet-connected.png
+│       ├── notification-network-ethernet-disconnected.png
+│       ├── notification-network-wired.png -> notification-network-ethernet-connected.png
+│       ├── notification-network-wireless-disconnected.png
+│       └── notification-network-wireless.png
+├── custom
+│   ├── folders.svg
+│   └── folder.svg
+├── folder_structure.txt
+├── folder.svg
+├── icon-theme.cache
+├── index.theme
+├── install.sh
+├── LICENSE
+└── README.md
+
+26 directories, 2170 files
