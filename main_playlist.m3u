@@ -1,0 +1,479 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CGXC5fp.png" tvg-name="BBC Three/CBBC (720p)" group-title="Main-General",BBC Three/CBBC (720p)
+http://193.46.58.239:8080/CBBCHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aH0PCPy.png" tvg-name="BBC Four/CBeebies (720p)" group-title="Main-General",BBC Four/CBeebies (720p)
+http://193.46.58.239:8080/CbeebiesHD/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/629a066860ef810008267b70/solidLogoPNG.png?w=512" tvg-name="Detective Conan" group-title="Main-Cartoons",Detective Conan
+https://jmp2.uk/plu-629a066860ef810008267b70.m3u8
+#EXTINF:-1 tvg-logo="https://x1co.com.br/logo.png" tvg-name="NickOnline (360p)" group-title="Main-Cartoons",NickOnline (360p)
+https://x1co.com.br/hls/stream.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/colorLogoPNG.png" tvg-name="Pluto TV Retro Toons" group-title="Main-Cartoons",Pluto TV Retro Toons
+https://jmp2.uk/plu-5c5c2b9d8002db3c3e0b1c6d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GEbRABE.png" tvg-name="Pokémon" group-title="Main-Cartoons",Pokémon
+https://jmp2.uk/plu-6683cd71a1d7ad000866ec6a.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/S6Su6QH.png" tvg-name="Top Gear (720p)" group-title="Main-General",Top Gear (720p)
+https://jmp2.uk/plu-636adc255bcf470007d6e0e2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bmkXfIE.png" tvg-name="Bloomberg HT (720p)" group-title="Main-General",Bloomberg HT (720p)
+https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/43oHsHL.png" tvg-name="Yahoo! Finance (1080p)" group-title="Main-General",Yahoo! Finance (1080p)
+https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG00230YYJ.png?lock=720x540" tvg-name="Zee Business (720p)" group-title="Main-General",Zee Business (720p)
+https://dwby15d04agvq.cloudfront.net/index_5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/NsNytWD.jpeg" tvg-name="Zuraca TV (720p)" group-title="Main-Cartoons",Zuraca TV (720p)
+https://tv3.bitstreaming.net:3680/live/zuracatvlive.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/CNBC_2025.svg/960px-CNBC_2025.svg.png" tvg-name="CNBC (1080p)" group-title="Main-General",CNBC (1080p)
+https://amg01079-nbcuuk-amg01079c2-samsung-gb-1258.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d134a74ca91eedee1630faa/colorLogoPNG.png" tvg-name="Pluto TV Classic TV" group-title="Main-General",Pluto TV Classic TV
+https://jmp2.uk/plu-5d134a74ca91eedee1630faa.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62e91af00c43540007f2bb43/colorLogoPNG.png" tvg-name="Classic TV: Families" group-title="Main-General",Classic TV: Families
+https://jmp2.uk/plu-61325d18f5166c00081b84e0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHQxv0x.png" tvg-name="Classic TV Drama" group-title="Main-General",Classic TV Drama
+https://jmp2.uk/plu-5f15e3cccf49290007053c67.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5de802659167b10009e7deba/colorLogoPNG.png" tvg-name="Pluto TV Series Retro" group-title="Main-General",Pluto TV Series Retro
+https://jmp2.uk/plu-5de802659167b10009e7deba.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/69aee8a1acb7eb0bb68df641/colorLogoPNG_1774899454178.png" tvg-name="Pluto TV Retro Crime Action" group-title="Main-General",Pluto TV Retro Crime Action
+https://jmp2.uk/plu-69aee8a1acb7eb0bb68df641.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5dc2c00abfed110009d97243/colorLogoPNG.png" tvg-name="Pluto TV Sherlock" group-title="Main-General",Pluto TV Sherlock
+https://jmp2.uk/plu-5dc2c00abfed110009d97243.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1QpMJJT.png" tvg-name="The Andy Griffith Show" group-title="Main-General",The Andy Griffith Show
+https://jmp2.uk/plu-62e9145ec07f2a00070e68dc.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/st1xMsw.png" tvg-name="TVS Classic Movies (288p)" group-title="Main-General",TVS Classic Movies (288p)
+https://rpn.bozztv.com/gusa/gusa-tvsclassicmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QtQGyMS.png" tvg-name="TVS Hollywood History (582p)" group-title="Main-General",TVS Hollywood History (582p)
+https://rpn.bozztv.com/gusa/gusa-tvshollywoohistory/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N9nQpnP.png" tvg-name="TVS Mainstreet (360p) [Not 24/7]" group-title="Main-General",TVS Mainstreet (360p) [Not 24/7]
+https://rpn.bozztv.com/gusa/gusa-tvsmainst/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/w4fxiKi.png" tvg-name="TVS Nostalgia Movies (480p)" group-title="Main-General",TVS Nostalgia Movies (480p)
+https://rpn.bozztv.com/gusa/gusa-tvsNostalgiaMovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jdnHci0.png" tvg-name="TVS Retro (720p)" group-title="Main-General",TVS Retro (720p)
+https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WsaVAhx.png" tvg-name="TVS Talk Network (360p)" group-title="Main-General",TVS Talk Network (360p)
+https://rpn.bozztv.com/gusa/gusa-TVStalk/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JlFwnDD.png" tvg-name="TVS Tally Ho (360p)" group-title="Main-General",TVS Tally Ho (360p)
+https://rpn.bozztv.com/gusa/gusa-tvstallyho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dwr98qb.png" tvg-name="TVS Western Movie (270p)" group-title="Main-General",TVS Western Movie (270p)
+https://rpn.bozztv.com/gusa/gusa-tvswesternmovies/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nNy9oTx.png" tvg-name="Western TV" group-title="Main-General",Western TV
+https://jmp2.uk/plu-5e8df4bc16e34700077e77d3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bjcpeVH.png" tvg-name="Timeless TV" group-title="Main-General",Timeless TV
+https://timelesstv1-301f.kxcdn.com/hls/TimelessTV.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central" group-title="Main-General",Comedy Central
+http://86.87.15.10:8002/play/a02k/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/960px-Comedy_Central_2018.svg.png" tvg-name="Comedy Central (1080p)" group-title="Main-General",Comedy Central (1080p)
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wg5I5Fb.png" tvg-name="Classic TV Comedy" group-title="Main-General",Classic TV Comedy
+https://jmp2.uk/plu-5f15e32b297f96000768f928.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VIpQJxL.png" tvg-name="FailArmy (720p)" group-title="Main-General",FailArmy (720p)
+https://failarmy-international-gb.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4mbhOEo.png" tvg-name="More TV Sitcoms" group-title="Main-General",More TV Sitcoms
+https://jmp2.uk/plu-6132619f9ddaa50007e7dd86.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d767ab2b456c8cf265ce921/colorLogoPNG.png" tvg-name="Pluto TV Sitcoms" group-title="Main-General",Pluto TV Sitcoms
+https://jmp2.uk/plu-62f53dc6ee9a0400071dc22b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WgN4T18.png" tvg-name="Gordon Ramsay (720p)" group-title="Main-General",Gordon Ramsay (720p)
+https://aegis-cloudfront-1.tubi.video/c8364f36-c60b-4a39-8d86-0b92db4611c0/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-name="BBC Earth" group-title="Main-General",BBC Earth
+http://81.15.109.89:8001/play/BBCEarth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-name="BBC Earth (1080p)" group-title="Main-General",BBC Earth (1080p)
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vzYDSLo.png" tvg-name="FBI Files" group-title="Main-General",FBI Files
+https://jmp2.uk/plu-62bdaa32a1b2fd00076693e8.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/V5vvuLK.png" tvg-name="Forensic Files" group-title="Main-General",Forensic Files
+https://jmp2.uk/plu-62e92392a3e6270007f562e8.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/CNA_new_logo.svg/500px-CNA_new_logo.svg.png" tvg-name="CNA Originals (1080p)" group-title="Main-General",CNA Originals (1080p)
+https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ulHoqlP.png" tvg-name="History Hit (1080p)" group-title="Main-General",History Hit (1080p)
+https://lds-timeline-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/500px-History_%282021%29.svg.png" tvg-name="History (576p)" group-title="Main-General",History (576p)
+http://84.17.50.102/history/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-name="National Geographic HD East (720p)" group-title="Main-General",National Geographic HD East (720p)
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/72JmyjM.png" tvg-name="NatureTime (684p)" group-title="Main-General",NatureTime (684p)
+https://jmp2.uk/plu-681ba2729624e6275efe0044.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/colorLogoPNG.png" tvg-name="Pluto TV Aventure" group-title="Main-General",Pluto TV Aventure
+https://jmp2.uk/plu-611e7811eb9daf000764cbfd.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/625e8cb585ef320007806caf/colorLogoPNG.png" tvg-name="Pluto TV Britain at War" group-title="Main-General",Pluto TV Britain at War
+https://jmp2.uk/plu-625e8cb585ef320007806caf.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61409f8d6feb30000766b675/colorLogoPNG.png" tvg-name="Pluto TV Space" group-title="Main-General",Pluto TV Space
+https://jmp2.uk/plu-5dbc2f98777f2e0009934ae7.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Vhv5gjN.png" tvg-name="WildEarth (1080p)" group-title="Main-General",WildEarth (1080p)
+https://dqga3jatxofgx.cloudfront.net/WildEarth.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6806d65e84f24b70109485fa/colorLogoPNG_1746817107468.png" tvg-name="Pluto TV Aliens" group-title="Main-General",Pluto TV Aliens
+https://jmp2.uk/plu-6806d65e84f24b70109485fa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VfofmZZ.png" tvg-name="Knowledge Network (720p) [Geo-blocked]" group-title="Main-General",Knowledge Network (720p) [Geo-blocked]
+https://d1wal6k3d7ssin.cloudfront.net/out/v1/ea91db0906c847a4931b46a9ec36e77b/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/q4cUQKW.png" tvg-name="PBS Kids (720p)" group-title="Main-Cartoons",PBS Kids (720p)
+https://livestream.pbskids.org/out/v1/14507d931bbe48a69287e4850e53443c/est.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" tvg-name="PBS Kids Alaska (1080p)" group-title="Main-Cartoons",PBS Kids Alaska (1080p)
+https://livestream.pbskids.org/out/v1/94b88ad58fc14f84a9382341f1c00b82/akst.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" tvg-name="PBS Kids Pacific (1080p)" group-title="Main-Cartoons",PBS Kids Pacific (1080p)
+https://livestream.pbskids.org/out/v1/11f2e6b73eaa4887b3746cb863960e79/pst.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ambc9le.png" tvg-name="PBS Kids Hawaii (720p)" group-title="Main-Cartoons",PBS Kids Hawaii (720p)
+https://livestream.pbskids.org/out/v1/aa31792fee094b24b09045483f04d150/hast.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4ac35c-dd3f-4f56-a272-41ebfe3477a9/american_crime_channel_dark_logo_-_Kam_JeyRDXV2.png" tvg-name="American Crime Channel" group-title="Main-General",American Crime Channel
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883104
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTiiPz0.png" tvg-name="BBC America (720p)" group-title="Main-General",BBC America (720p)
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i4remZo.png" tvg-name="BBC Brit" group-title="Main-General",BBC Brit
+http://81.15.109.89:8001/play/BBCBrit
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UBoBYUI.png" tvg-name="BBC First" group-title="Main-General",BBC First
+http://81.15.109.89:8001/play/BBCFirst
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ff768b6a4c8b80008498610/colorLogoPNG_1756804608228.png" tvg-name="BET Pluto TV" group-title="Main-General",BET Pluto TV
+https://jmp2.uk/plu-5ca670f6593a5d78f0e85aed.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jj0wTFQ.png" tvg-name="Best of Dr. Phil" group-title="Main-General",Best of Dr. Phil
+https://jmp2.uk/plu-666815f24b9fb400083f7e31.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pyqZgU7.png" tvg-name="BET Classics" group-title="Main-General",BET Classics
+https://jmp2.uk/plu-60f85644a9493e0007a1f035.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/edaAexc.png" tvg-name="Canal Nets (720p) [Not 24/7]" group-title="Main-General",Canal Nets (720p) [Not 24/7]
+https://movil.ejeserver.com/live/nets.m3u8
+#EXTINF:-1 tvg-logo="https://biztv.uz/static/media/logo.5f993187.png" tvg-name="BIZ TV (1080p)" group-title="Main-General",BIZ TV (1080p)
+https://fl.biztv.media/biz_tv_720_uni8jhub4h8fub4idejswh8dh3j94finbu4nidj39inwsj92in3d/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg" tvg-name="Crime + Investigation (720p)" group-title="Main-General",Crime + Investigation (720p)
+http://23.237.104.106:8080/USA_CRIME_INVESTIGATION/index.m3u8
+#EXTINF:-1 tvg-logo="https://provider-static.plex.tv/epg/cms/production/7685b801-1ef6-4098-947a-4ccada912e33/Electric_Now_Logo_For_Dark_Background_EN.png" tvg-name="Electric Now (1080p)" group-title="Main-General",Electric Now (1080p)
+https://elec-en-xumo.otteravision.com/elec/en/elec_en.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hSDN9YQ.png" tvg-name="Fox (1080p) [Not 24/7]" group-title="Main-General",Fox (1080p) [Not 24/7]
+http://88b9da48.kazmazpaz.ru/iptv/XVU58NBPX2LUMP/6108/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/960px-MTV_2021_%28brand_version%29.svg.png" tvg-name="MTV (720p)" group-title="Main-General",MTV (720p)
+http://198.58.104.90:8989/mtv/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/21/MTV2_logo_2013.svg/960px-MTV2_logo_2013.svg.png" tvg-name="MTV2 (720p)" group-title="Main-General",MTV2 (720p)
+http://198.58.104.90:8989/mtv2/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5caf325764025859afdd6c4d/colorLogoPNG.png" tvg-name="MTV Pluto TV" group-title="Main-General",MTV Pluto TV
+https://jmp2.uk/plu-5caf325764025859afdd6c4d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7j8Km6e.png" tvg-name="NBC 3 (480p)" group-title="Main-General",NBC 3 (480p)
+https://hls2.nbcplus.na/hls/high_nbc3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n9bK6f2.png" tvg-name="Pimp My Ride" group-title="Main-General",Pimp My Ride
+https://jmp2.uk/plu-61c091343bf4940007803e03.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/O9lwu23.png" tvg-name="Undercover Boss (720p)" group-title="Main-General",Undercover Boss (720p)
+https://all3media-international-undercoverboss-1-au.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/6544bebaae.jpg" tvg-name="1KZN TV (576p)" group-title="Main-General",1KZN TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://admango.cdn.mangomolo.com/analytics/uploads/188/654a3ec660.png" tvg-name="Tshwane TV (576p)" group-title="Main-General",Tshwane TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:tshwane.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.axios.com/JiG3RuYBwpU_WZFeU6HHjt03FAU=/111x0:1191x1080/320x320/2023/11/09/1699558891265.jpg" tvg-name="30A Georgia Hollywood Review TV (720p)" group-title="Main-General",30A Georgia Hollywood Review TV (720p)
+https://30a-tv.com/gh.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Entertainment_Tonight_2021.svg/960px-Entertainment_Tonight_2021.svg.png" tvg-name="Entertainment Tonight (1080p)" group-title="Main-General",Entertainment Tonight (1080p)
+https://enterbcef94b.airspace-cdn.cbsivideo.com/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oVNjFoj.png" tvg-name="HollyWire (720p)" group-title="Main-General",HollyWire (720p)
+https://bozztv.com/hwotta/playlist/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y8FK1Kk.png" tvg-name="Cape Town TV (576p)" group-title="Main-General",Cape Town TV (576p)
+https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/656df599c0fc8800089c75ab/colorLogoPNG.png" tvg-name="Avatar" group-title="Main-Cartoons",Avatar
+https://jmp2.uk/plu-61c09b48d6d97900076e91c5.m3u8
+#EXTINF:-1 tvg-logo="https://bejoy.kids/wp-content/uploads/2025/09/Logo_Bejoy.png" tvg-name="BeJoy.kids (1080p)" group-title="Main-Cartoons",BeJoy.kids (1080p)
+https://64b16f23efbee.streamlock.net/bejoy/bejoy/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SbBKr8L.png" tvg-name="Baby Shark TV" group-title="Main-Cartoons",Baby Shark TV
+https://c0c65b821b3542c3a4dca92702f59944.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BabySharkTV/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J5QNqJ0.png" tvg-name="Biznet Kids (1080p)" group-title="Main-Cartoons",Biznet Kids (1080p)
+http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/tg/linear_channel/logo/640x360/camp-spoopy-2021_1920-x-1080_option-5.jpg" tvg-name="Camp Spoopy (576p)" group-title="Main-Cartoons",Camp Spoopy (576p)
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=269
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg" tvg-name="Disney Channel" group-title="Main-Cartoons",Disney Channel
+http://86.87.15.10:8004/play/a02g/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg" tvg-name="Disney Jr. (1080p)" group-title="Main-Cartoons",Disney Jr. (1080p)
+http://151.80.18.177:86/Disney_Junior_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD" group-title="Main-Cartoons",Disney XD
+http://81.15.109.89:8001/play/DisneyXD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e3/2024_Disney_Jr._Logo.svg" tvg-name="Disney Junior (1080i)" group-title="Main-Cartoons",Disney Junior (1080i)
+http://23.237.104.106:8080/USA_DISNEY_JUNIOR/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg" tvg-name="Disney XD (720p)" group-title="Main-Cartoons",Disney XD (720p)
+http://23.237.104.106:8080/USA_DISNEY_XD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zJuSbmU.png" tvg-name="Dora TV" group-title="Main-Cartoons",Dora TV
+https://jmp2.uk/plu-62e951258a26d40007b3034c.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/deeQqYZ.png" tvg-name="Forever Kids" group-title="Main-Cartoons",Forever Kids
+https://jmp2.uk/plu-56171fafada51f8004c4b40f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/evzfe9C.png" tvg-name="Garfield and Friends" group-title="Main-Cartoons",Garfield and Friends
+https://jmp2.uk/plu-677f927554f43dad4b3258aa.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cPrUCFw.png" tvg-name="HappyKids (1080p)" group-title="Main-Cartoons",HappyKids (1080p)
+https://dil9xdvretp0f.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tMfEsVr.png" tvg-name="LEGO Kids TV" group-title="Main-Cartoons",LEGO Kids TV
+https://jmp2.uk/plu-60fb01a24795a6000762fe83.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E84jnP8.png" tvg-name="Nickelodeon" group-title="Main-Cartoons",Nickelodeon
+http://213.91.179.28:8000/play/a056
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62bdb75c3afd1200079146a6/colorLogoPNG.png" tvg-name="Nick Jr. Pluto TV" group-title="Main-Cartoons",Nick Jr. Pluto TV
+https://jmp2.uk/plu-62bdb75c3afd1200079146a6.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Nickelodeon_Junior.png/960px-Nickelodeon_Junior.png" tvg-name="Nickelodeon Junior (1080p)" group-title="Main-Cartoons",Nickelodeon Junior (1080p)
+http://151.80.18.177:86/Nickelodeon_Junior/index.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/960px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon Global (576p)" group-title="Main-Cartoons",Nickelodeon Global (576p)
+http://46.149.191.217:9011/play/a018
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Nicktoons_Network_logo_2009.svg/960px-Nicktoons_Network_logo_2009.svg.png" tvg-name="Nicktoons (720p)" group-title="Main-Cartoons",Nicktoons (720p)
+http://41.205.93.154/NICKTOONS/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7EngqUi.png" tvg-name="Ninja Kidz (720p)" group-title="Main-Cartoons",Ninja Kidz (720p)
+https://d3868b4ny0rgdf.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" tvg-name="Pluto TV Junior" group-title="Main-Cartoons",Pluto TV Junior
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/colorLogoPNG_1748852055317.png" tvg-name="Pluto TV Kids Club" group-title="Main-Cartoons",Pluto TV Kids Club
+https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jcIprmt.png" tvg-name="Ryan and Friends (1080p)" group-title="Main-Cartoons",Ryan and Friends (1080p)
+https://ryanandfriends-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/l5XmvM1.png" tvg-name="Rugrats" group-title="Main-Cartoons",Rugrats
+https://jmp2.uk/plu-610c09219fc0430007a3fce6.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xg0P1e1.png" tvg-name="Sabrina The Teenage Witch" group-title="Main-Cartoons",Sabrina The Teenage Witch
+https://jmp2.uk/plu-66276091cee0d900085fe053.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IWcQfF2.png" tvg-name="Super! iCarly" group-title="Main-Cartoons",Super! iCarly
+https://jmp2.uk/plu-609401db8cf51c00084b592e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xePwW13.png" tvg-name="The LEGO Channel (1080p)" group-title="Main-Cartoons",The LEGO Channel (1080p)
+https://dltiqboxjw21d.cloudfront.net/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KZq73CE.png" tvg-name="TeenNick (1080p)" group-title="Main-Cartoons",TeenNick (1080p)
+http://91.146.94.234:10001/play/a08o
+#EXTINF:-1 tvg-logo="https://gia.tv/streams/pptv/208314.jpg?1750373428" tvg-name="Tom And Jerry (720p)" group-title="Main-Cartoons",Tom And Jerry (720p)
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Pn0ADQ.png" tvg-name="KidsFlix (1080p) [Not 24/7]" group-title="Main-Cartoons",KidsFlix (1080p) [Not 24/7]
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
+#EXTINF:-1 tvg-logo="https://i.imgur.com/avFk0Tt.png" tvg-name="Kids Movie Club" group-title="Main-Cartoons",Kids Movie Club
+https://jmp2.uk/plu-5db0ad56edc89300090d2ebb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QiuYWs9.png" tvg-name="BBC Travel" group-title="Main-General",BBC Travel
+https://jmp2.uk/plu-60e4519e6873180007d3cddb.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/960px-Paramount_Network.svg.png" tvg-name="Paramount Network (720p)" group-title="Main-General",Paramount Network (720p)
+http://rezofoot.tv/PARAMOUNT-CHANNEL/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/colorLogoPNG_1731066705631.png" tvg-name="Pluto TV 80's Action" group-title="Main-General",Pluto TV 80's Action
+https://jmp2.uk/plu-66d717d2abec540008ba7ec4.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b4990746762a00084c2f78/colorLogoPNG.png" tvg-name="Pluto TV 90's Classics" group-title="Main-General",Pluto TV 90's Classics
+https://jmp2.uk/plu-66b4990746762a00084c2f78.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65004605110545000842035d/colorLogoPNG_1751356419664.png" tvg-name="Pluto TV Action" group-title="Main-General",Pluto TV Action
+https://jmp2.uk/plu-65004605110545000842035d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/colorLogoPNG.png" tvg-name="Pluto TV 2010's Classics" group-title="Main-General",Pluto TV 2010's Classics
+https://jmp2.uk/plu-66b498bc14a2bb00086965bc.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61c095861782bd000780e0ba/colorLogoPNG.png" tvg-name="Pluto TV Action" group-title="Main-General",Pluto TV Action
+https://jmp2.uk/plu-61c095861782bd000780e0ba.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/62f4f4b88157cf00075c22db/colorLogoPNG.png" tvg-name="Pluto TV Horror" group-title="Main-General",Pluto TV Horror
+https://jmp2.uk/plu-6267d4d1fb694f0007a6af0e.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/60ed498c4248a400077c0b9d/colorLogoPNG.png" tvg-name="Pluto TV Sci-Fi" group-title="Main-General",Pluto TV Sci-Fi
+https://jmp2.uk/plu-5dc02a44a9518600094273ac.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/65786888b228b7000843ad9a/colorLogoPNG.png" tvg-name="Pluto TV Zombies" group-title="Main-General",Pluto TV Zombies
+https://jmp2.uk/plu-65786888b228b7000843ad9a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/68c01732b3900870ec74766f/colorLogoPNG_1761917904777.png" tvg-name="Pluto TV Wild West" group-title="Main-General",Pluto TV Wild West
+https://jmp2.uk/plu-68c017bf337652ee75db201f.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/liLta8j.png" tvg-name="SABC News (720p) [Geo-blocked]" group-title="Main-SABC",SABC News (720p) [Geo-blocked]
+https://sabconetanw.cdn.mangomolo.com/news/smil:news.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YhdnZHH.png" tvg-name="SABC Lehae [Geo-blocked]" group-title="Main-SABC",SABC Lehae [Geo-blocked]
+https://sabctretalh.cdn.mangomolo.com/lehae/smil:lehae.stream.smil/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&ssl=1" tvg-name="Africa 24 Sport (1080p)" group-title="Main-General",Africa 24 Sport (1080p)
+https://africa24.vedge.infomaniak.com/livecast/ik:africa24sport/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV (1080p)" group-title="Main-General",Red Bull TV (1080p)
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV AU (1080p)" group-title="Main-General",Red Bull TV AU (1080p)
+https://db34cc6127ac459db55cab5f97cd66b9.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-680-WORBAUENFAST-WHALETVPLUS/680/whaletvplus/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV BR (1080p)" group-title="Main-General",Red Bull TV BR (1080p)
+https://d03ae6b5c6724c24867e97a3dc04934a.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1026-WORBBRPTFAST-WHALETVPLUS/1026/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5e7cb84a172a0f0007da69e4/colorLogoPNG.png" tvg-name="Red Bull TV US (1080p)" group-title="Main-General",Red Bull TV US (1080p)
+https://0b73ace69ebb45eaa249bb87837cb958.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-644-WORBUSENFAST-LG_US/644/lgtv/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HctHhLL.png" tvg-name="BBC Drama (1080p)" group-title="Main-General",BBC Drama (1080p)
+https://amg00793-amg00793c40-rakuten-es-5444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4SPOVN7.png" tvg-name="Auction Hunters" group-title="Main-Series",Auction Hunters
+https://jmp2.uk/plu-5ede45d077746000072be0fe.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1UZNdRH.png" tvg-name="Chaos City" group-title="Main-Series",Chaos City
+https://jmp2.uk/plu-60afbad343e3840007164348.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/td3d1F8.png" tvg-name="Beverly Hills 90210" group-title="Main-Series",Beverly Hills 90210
+https://jmp2.uk/plu-60afb576053df900076fa2f0.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I8YdakH.png" tvg-name="CBC Drama (576p)" group-title="Main-Series",CBC Drama (576p)
+https://flu.systemnet.tv/CBCDrama/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mowSfj6.png" tvg-name="Cold Case Files (1080p)" group-title="Main-Series",Cold Case Files (1080p)
+https://aegis-cloudfront-1.tubi.video/1e764712-0649-4946-bd7e-f1bbba3be6fa/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xIlF92v.png" tvg-name="Cheers" group-title="Main-Series",Cheers
+https://jmp2.uk/plu-62bdb7f0db2eb30007376d4d.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/61b3b8c645b45d0007a9bb8d/colorLogoSVG.svg" tvg-name="Blue Bloods" group-title="Main-Series",Blue Bloods
+https://jmp2.uk/plu-66f55a9a747bfa0008521859.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7GKO6Fp.png" tvg-name="Comedy Central South Park" group-title="Main-Series",Comedy Central South Park
+https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xLLNEfA.png" tvg-name="CSI" group-title="Main-Series",CSI
+https://jmp2.uk/plu-6525419dc52b3600083db9c3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J3XO6V2.png" tvg-name="Cops (720p)" group-title="Main-Series",Cops (720p)
+https://langleyproductions-cops-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lMICupK.png" tvg-name="Dog the Bounty Hunter (1080p)" group-title="Main-Series",Dog the Bounty Hunter (1080p)
+https://aegis-cloudfront-1.tubi.video/ff0ad399-75ed-42ba-8c60-75bb6cb8c929/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vMcSlwm.png" tvg-name="Duck Dynasty (1080p)" group-title="Main-Series",Duck Dynasty (1080p)
+https://amg00276-amg00276c2-rakuten-uk-3449.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wvQYWsj.png" tvg-name="Inside Crime (1080p)" group-title="Main-Series",Inside Crime (1080p)
+https://aenetworks-insidecrime-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6jWcqz.png" tvg-name="iCarly" group-title="Main-Series",iCarly
+https://jmp2.uk/plu-61c0b9aab7facb0007913908.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lOuySbz.png" tvg-name="MasterChef" group-title="Main-Series",MasterChef
+https://jmp2.uk/plu-6077045b6031bd00078de127.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qWf8Zku.png" tvg-name="MTV Originals" group-title="Main-Series",MTV Originals
+https://jmp2.uk/plu-5f1aadf373bed3000794d1d7.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/693adae77f21340ef9746f56/colorLogoPNG_1767879898099.png" tvg-name="Pluto TV FBI" group-title="Main-Series",Pluto TV FBI
+https://jmp2.uk/plu-693adae77f21340ef9746f56.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/63808dc806aa4700075f319a/colorLogoPNG.png" tvg-name="Pluto TV Investigation" group-title="Main-Series",Pluto TV Investigation
+https://jmp2.uk/plu-63808dc806aa4700075f319a.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6475bfec536e0c0008858e9f/colorLogoPNG.png" tvg-name="Pluto TV K-Drama" group-title="Main-Series",Pluto TV K-Drama
+https://jmp2.uk/plu-6475bfec536e0c0008858e9f.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f1ac8f49205650007bc15f1/colorLogoPNG.png" tvg-name="Pluto TV Series" group-title="Main-Series",Pluto TV Series
+https://jmp2.uk/plu-5f1ac8f49205650007bc15f1.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/608aa777b907770007e5d05d/colorLogoPNG_1750402183051.png" tvg-name="Pluto TV Serie Crime" group-title="Main-Series",Pluto TV Serie Crime
+https://jmp2.uk/plu-608aa777b907770007e5d05d.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Fu2jn2t.png" tvg-name="Sanctuary" group-title="Main-Series",Sanctuary
+https://jmp2.uk/plu-63eb57d6c111bc0008fe2658.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5yzPhRo.png" tvg-name="The Amazing Race" group-title="Main-Series",The Amazing Race
+https://jmp2.uk/plu-5f21e8a6e2f12b000755afdb.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Bl8X7EW.png" tvg-name="The Addams Family" group-title="Main-Series",The Addams Family
+https://jmp2.uk/plu-5d81607ab737153ea3c1c80e.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KBTqpJ7.png" tvg-name="The Johnny Carson Show (720p)" group-title="Main-Series",The Johnny Carson Show (720p)
+https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-name="The New Detectives" group-title="Main-Series",The New Detectives
+https://jmp2.uk/plu-62bdabbc5611f2000761ca30.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GLXg9ge.png" tvg-name="The New Detectives" group-title="Main-Series",The New Detectives
+https://jmp2.uk/plu-5e393d5c696b3b0009775c8b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/60YejJs.png" tvg-name="The Rifleman" group-title="Main-Series",The Rifleman
+https://jmp2.uk/plu-5e825550e758c700077b0aef.m3u8
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/colorLogoPNG.png" tvg-name="True Crime by Pluto TV" group-title="Main-Series",True Crime by Pluto TV
+https://jmp2.uk/plu-5f914f4b36d67d0007a91a04.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVTNBFr.png" tvg-name="Wipeout" group-title="Main-Series",Wipeout
+https://jmp2.uk/plu-6909e5c3a3a4b49706b8373b.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kyVB8Ik.png" tvg-name="Wild at Heart" group-title="Main-Series",Wild at Heart
+https://jmp2.uk/plu-60817936fd2d70000763d2b2.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS ACTION" group-title="Main-Sports",UK|SKY SPORTS ACTION
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237524
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS CRICKET HD" group-title="Main-Sports",UK|SKY SPORTS CRICKET HD
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237526
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS FOOTBALL" group-title="Main-Sports",UK|SKY SPORTS FOOTBALL
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237521
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS GOLF HD" group-title="Main-Sports",UK|SKY SPORTS GOLF HD
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237527
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS MAIN EVENT" group-title="Main-Sports",UK|SKY SPORTS MAIN EVENT
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237518
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS MIX" group-title="Main-Sports",UK|SKY SPORTS MIX
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237522
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS NEWS" group-title="Main-Sports",UK|SKY SPORTS NEWS
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237517
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS PLUS" group-title="Main-Sports",UK|SKY SPORTS PLUS
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237523
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS PREMIER LEAGUE HDR" group-title="Main-Sports",UK|SKY SPORTS PREMIER LEAGUE HDR
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237520
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|SKY SPORTS RACING" group-title="Main-Sports",UK|SKY SPORTS RACING
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237525
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|TNT SPORT 1 HD" group-title="Main-Sports",UK|TNT SPORT 1 HD
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237535
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|TNT SPORT 2 HD" group-title="Main-Sports",UK|TNT SPORT 2 HD
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237536
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n1GRXhD/Skysport-shareext.png" tvg-name="UK|TNT SPORT 3 HD" group-title="Main-Sports",UK|TNT SPORT 3 HD
+http://8kkng.life:8080/Cliyan30/IVKacV8lzSA8rsB/237537
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA.png" tvg-name="ES: (HD) DAZN LALIGA" group-title="Main-Sports",ES: (HD) DAZN LALIGA
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/243
+#EXTINF:-1 tvg-logo="https://docdog.top/logo/countries/spain/movistar/DAZN_LALIGA_2.png" tvg-name="ES: DAZN LALIGA 2" group-title="Main-Sports",ES: DAZN LALIGA 2
+http://vipapyenhmw.top:8080/brejna/6yGNnFuahuTG/128942
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 1" group-title="Main-Sports",SKYSPORTS 1
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579826
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS PREMIERLEAGUE" group-title="Main-Sports",SKYSPORTS PREMIERLEAGUE
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579819
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 2" group-title="Main-Sports",SKYSPORTS 2
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579825
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 5" group-title="Main-Sports",SKYSPORTS 5
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579822
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 6" group-title="Main-Sports",SKYSPORTS 6
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579821
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 4" group-title="Main-Sports",SKYSPORTS 4
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579823
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 9" group-title="Main-Sports",SKYSPORTS 9
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579818
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HH0TDQW/Shareext-Sports.jpg" tvg-name="SKYSPORTS 7" group-title="Main-Sports",SKYSPORTS 7
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/579820
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro arena" group-title="Main-Sports",Astro arena
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163983
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro arena 2" group-title="Main-Sports",Astro arena 2
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163657
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro cricket" group-title="Main-Sports",Astro cricket
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163988
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro premier league 2" group-title="Main-Sports",Astro premier league 2
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163683
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro premier league" group-title="Main-Sports",Astro premier league
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163684
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Premier sports" group-title="Main-Sports",Premier sports
+http://tv-premium-pro.com/wezqqszfr2/i7481xvrdf/1163874
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" tvg-name="espn HD" group-title="Main-Sports",espn HD
+http://84.17.50.102/espn/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" tvg-name="CANAL+ Sport" group-title="Main-Sports",CANAL+ Sport
+http://151.80.18.177:86/Canal+_sport_HD/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Lz5GvPFx/shareext-logo-united-states.png" tvg-name="FOXSPORTS2" group-title="Main-Sports",FOXSPORTS2
+http://179.60.51.134:8888/FOXSPORTS2/index.m3u8
+#EXTINF:-1 tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-name="FS1" group-title="Main-Sports",FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-name="Fox Deportes" group-title="Main-Sports",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-name="Bein US" group-title="Main-Sports",Bein US
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-name="Dazn 4" group-title="Main-Sports",Dazn 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 1 HD" group-title="Main-Sports",Arena Sport 1 HD
+http://178.253.194.79:10006
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 2 HD" group-title="Main-Sports",Arena Sport 2 HD
+http://178.253.194.79:10007
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 5 HD" group-title="Main-Sports",Arena Sport 5 HD
+http://178.253.194.79:10010
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 4 HD" group-title="Main-Sports",Arena Sport 4 HD
+http://178.253.194.79:10009
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 3 HD" group-title="Main-Sports",Arena Sport 3 HD
+http://178.253.194.79:10008
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 6 HD" group-title="Main-Sports",Arena Sport 6 HD
+http://178.253.194.79:10011
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 7 HD" group-title="Main-Sports",Arena Sport 7 HD
+http://178.253.194.79:10012
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 8 HD" group-title="Main-Sports",Arena Sport 8 HD
+http://178.253.194.79:10013
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 2 Premium HD" group-title="Main-Sports",Arena Sport 2 Premium HD
+http://178.253.194.79:10004
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 3 Premium HD" group-title="Main-Sports",Arena Sport 3 Premium HD
+http://178.253.194.79:10005
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 4 Premium HD" group-title="Main-Sports",Arena Sport 4 Premium HD
+http://178.253.194.79:10016
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Tennis HD" group-title="Main-Sports",Arena Tennis HD
+http://178.253.194.79:10019
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Sport 5 Premium HD" group-title="Main-Sports",Arena Sport 5 Premium HD
+http://178.253.194.79:10017
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Arena Adrenalin HD" group-title="Main-Sports",Arena Adrenalin HD
+http://178.253.194.79:10018
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="Kuwait Sports" group-title="Main-Sports",Kuwait Sports
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="RealMadrid (ENG)" group-title="Main-Sports",RealMadrid (ENG)
+https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/BCHXWWH/Shareext-champion-league.jpg" tvg-name="RealMadrid (ESP)" group-title="Main-Sports",RealMadrid (ESP)
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT36pCXkrol7QeYM8ByRJBT95inbKcS9S6m5HaQTKJjpAzmMPlz4UtANXpgX6_vbUP2aVI&usqp=CAU" tvg-name="RedBullTv" group-title="Main-Sports",RedBullTv
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png?w=272" tvg-name="Hub Premier1 HD (main)" group-title="Main-Sports",Hub Premier1 HD (main)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314077&extension=ts&play_token=OkTEn6qiDL
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/223_1920x1080_HTV.png?w=272" tvg-name="Hub Premier3 HD (main)" group-title="Main-Sports",Hub Premier3 HD (main)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314079&extension=ts&play_token=bW9r3i6SUO
+#EXTINF:-1 tvg-logo="https://poster.starhubgo.com/Linear_channels2/224_1920x1080_HTV.png?w=272" tvg-name="Hub Premier 4 HD (main)" group-title="Main-Sports",Hub Premier 4 HD (main)
+http://main.light-ott.net:80/play/live.php?mac=00:1A:79:3A:93:FD&stream=1314080&extension=ts&play_token=tlQaY2nd4P
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/MZrXNW9W/ezgif-57587cff1d53c25d.png" tvg-name="HUB SPORTS 1 (pro)" group-title="Main-Sports",HUB SPORTS 1 (pro)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280822.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/N0J5tBQK/ezgif-5149382493d7d886.png" tvg-name="HUB SPORTS 2 (pro)" group-title="Main-Sports",HUB SPORTS 2 (pro)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280823.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/gkKW6s10/ezgif-52ce9dabeb284bc2.png" tvg-name="HUB SPORTS 3 (pro)" group-title="Main-Sports",HUB SPORTS 3 (pro)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280824.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/SRyZ06dX/ezgif-5d8854dd37a68a14.png" tvg-name="HUB SPORTS 5 (pro)" group-title="Main-Sports",HUB SPORTS 5 (pro)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/280826.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="BEINSPORTS 1 (MLYSIA)" group-title="Main-Sports",BEINSPORTS 1 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1776210.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro arena (MLYSIA)" group-title="Main-Sports",Astro arena (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163983.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro arena 2 (MLYSIA)" group-title="Main-Sports",Astro arena 2 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163657.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro premier league 2 (MLYSIA)" group-title="Main-Sports",Astro premier league 2 (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163683.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/z7Qjj4R/ASTROTV-shareext-Group.png" tvg-name="Astro cricket (MLYSIA)" group-title="Main-Sports",Astro cricket (MLYSIA)
+http://tv-premium-pro.com/live/wezqqszfr2/i7481xvrdf/1163988.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HT49GPmB/XTRA-2.png" tvg-name="beIN SPORTS XTRA (1080p)" group-title="Main-Sports",beIN SPORTS XTRA (1080p)
+https://bein-xtra-bein.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://resources.cricket-australia.pulselive.com/cricket-australia/photo/2025/07/25/836eddae-4329-4542-ad17-dcd37e9d951a/Cricket-Gold-1920x1080_noBG.png" tvg-name="Cricket Gold (1080p)" group-title="Main-Sports",Cricket Gold (1080p)
+https://streams2.sofast.tv/ptnr-yupptv/title-cricketgold/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/b2048bb8-1686-4432-aa50-647245383e0c/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VsW3Jsrz/logo-DAZN-Combat.png" tvg-name="DAZN Combat (684p)" group-title="Main-Sports",DAZN Combat (684p)
+https://jmp2.uk/plu-64d626ac9b414d000820e2fc.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/FIFA%2B_(2025).svg/960px-FIFA%2B_(2025).svg.png" tvg-name="FIFA+ United States (720p)" group-title="Main-Sports",FIFA+ United States (720p)
+https://d2w9q46ikgrcwx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-of5cbk3sav3w5/v1/sysdata_s_p_a_fifa_7/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xy9ZxVO.png" tvg-name="FIFA+ Women (720p)" group-title="Main-Sports",FIFA+ Women (720p)
+https://cffda8ff.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c3dvbWVuX0hMUw/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J0TY9dG.png" tvg-name="PGA Tour (1080p)" group-title="Main-Sports",PGA Tour (1080p)
+https://d11k1mnrgfposz.cloudfront.net/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TxQvFnQ.png" tvg-name="Sky Racing 2 (720p)" group-title="Main-Sports",Sky Racing 2 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream2/RacingStream2/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Hf0EiaW.png" tvg-name="Sky Racing 1 (720p)" group-title="Main-Sports",Sky Racing 1 (720p)
+https://636ffd31f0e12.streamlock.net/RacingStream1/RacingStream1/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/E5jjKHI.png" tvg-name="Star Sports 1 HD (1080p)" group-title="Main-Sports",Star Sports 1 HD (1080p)
+http://103.253.18.58:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6a/SuperTennis_-_Logo_2016.svg/960px-SuperTennis_-_Logo_2016.svg.png" tvg-name="SuperTennis (1080p)" group-title="Main-Sports",SuperTennis (1080p)
+https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/98kLMjj.png" tvg-name="World Poker Tour" group-title="Main-Sports",World Poker Tour
+https://jmp2.uk/plu-5ad9b7aae738977e2c312132.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-name="SABC 2 [Geo-blocked]" group-title="Main-SABC",SABC 2 [Geo-blocked]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
